@@ -1,4 +1,4 @@
-Indivíduo; Estado Civil; Grau de Instrução; Número de Filhos;Sálario;Idade (anos) ;Idade (meses); Região de Procedência
+Indivíduo;Estado Civil;Grau de Instrução; Número de Filhos;Salário;Idade(anos);Idade(meses);Região de Procedência
 1;solteiro;ensino fundamental;;4,00;26;3;interior
 2;casado;ensino fundamental;1;4,56;32;10;capital
 3;casado;ensino fundamental;2;5,25;36;5;capital
