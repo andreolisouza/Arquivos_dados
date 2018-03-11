@@ -1,4 +1,4 @@
-N;estado_civil;grau_instrucao;n_filhos;salario;idade_anos;idade_meses;reg_procedencia
+N;Estado Civil;Grau Instrução ; Número de Filhos;Sálario;Idade (anos) ;Idade (meses) ;Região de Procedência
 1;solteiro;ensino fundamental;;4,00;26;3;interior
 2;casado;ensino fundamental;1;4,56;32;10;capital
 3;casado;ensino fundamental;2;5,25;36;5;capital
