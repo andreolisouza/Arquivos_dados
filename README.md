@@ -1,3 +1,3 @@
 # arquivos
-Arquivos para aulas de estatìstica: André Oliveira Souza
+Arquivos para aulas de estatística: André Oliveira Souza
 
