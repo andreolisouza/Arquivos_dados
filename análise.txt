@@ -1,0 +1,7 @@
+
+# https://fernandafperes.com.br/blog/teste-t-independente/
+
+dados <- read.csv2("https://raw.githubusercontent.com/fernandaperes/bancosdedados/main/Bancos%20em%20csv/Banco%20de%20Dados%203.csv", stringsAsFactors = TRUE)
+
+head(dados, 10)
+dados %>% group_by(Posicao_Sala) %>% shapiro_test(Nota_Biol, Nota_Hist)
