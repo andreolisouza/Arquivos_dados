@@ -1,0 +1,28 @@
+## Experimento para avaliar o efeito da adubção fosfatada em
+## milho. Delineamento com 4 blocos e cinco níveis de P2O5
+## (kg/ha). Mediu-se a produção em ton/ha.
+##
+## Pimentel Gomes, F. (2009). Curso de estatística experimental (15th
+## ed., p. 451). FEALQ. página 232, seção 12.2.
+##
+bloco	P2O5	producao
+i	0	3.38
+ii	0	5.77
+iii	0	4.9
+iv	0	4.54
+i	25	7.15
+ii	25	9.78
+iii	25	9.99
+iv	25	10.1
+i	50	10.07
+ii	50	9.73
+iii	50	7.92
+iv	50	9.42
+i	75	9.55
+ii	75	8.95
+iii	75	10.24
+iv	75	8.66
+i	100	9.14
+ii	100	10.17
+iii	100	9.75
+iv	100	9.5
