@@ -1,0 +1,35 @@
+## Experimento instalado em DIC que avaliou 5 variedade de manga. Em
+## cada parcela (com 3 árvores), contou-se o total de frutos. O
+## experimento teve 6 repetições. Dias & Barros, Biometria Experimental,
+## pg 259.
+rept	variedade	totalFrutos
+1	v1	356
+1	v2	729
+1	v3	334
+1	v4	566
+1	v5	998
+2	v1	411
+2	v2	826
+2	v3	369
+2	v4	547
+2	v5	880
+3	v1	389
+3	v2	898
+3	v3	321
+3	v4	598
+3	v5	897
+4	v1	337
+4	v2	963
+4	v3	378
+4	v4	521
+4	v5	958
+5	v1	442
+5	v2	812
+5	v3	395
+5	v4	541
+5	v5	964
+6	v1	389
+6	v2	934
+6	v3	344
+6	v4	569
+6	v5	978
