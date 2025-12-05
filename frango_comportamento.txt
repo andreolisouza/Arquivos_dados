@@ -1,0 +1,152 @@
+## Experimento realizado por Ana Flavia Basso Royer
+## (http://lattes.cnpq.br/4326885110656445) durante Mestrado em
+## Zootecnia Universidade Federal da Grande Dourados, Título da
+## Dissertação: Capim cidreira (Cymbopogon citratus Stapf) na dieta
+## hídrica pré abate de frangos de corte. Orientador: Rodrigo Garófallo
+## Garcia.
+##
+## O experimento avaliou variáveis comportamentais tendo como fatores a
+## combinação do sexo da ave (sexo, M=macho, F=femea), linhagem (lin,
+## ross e cobb) e a concentração de chá (conc, 0, 1 e 5) na dieta
+## hídrica de pré abate das aves. Os animais foram mantidos em box
+## (unidade experimental). Foram feitas 3 filmagens (em dias diferentes)
+## de 5 minutos de duração em cada box. Nessas filmagens foi registrado
+## o número de ocorrências para uma lista de 14 comportamentos para cada
+## um de 3 animais em cada box. Na filmagem seguinte foram consierados
+## outros box. Cada combinção sexo:linhagem:concentação foi filmada 3
+## vezes, em cada filmagem o box era diferente, e as aves eram
+## diferentes. Sendo assim, sem considerar os tratamentos, existe o
+## efeito da filmagem (3 blocos) que representa o efeito do dia e suas
+## condições climáticas e de manejo, o efeito do box dentro da filmagem
+## (12 por bloco = 36 total, variação entre unidades dentro de um dia) e
+## a variação de aves dentro do box dentro da filmagem (3 por box por
+## bloco = 102). O arrajno experimental é um fatorial triplo 2 sexos x 2
+## linhagens x 3 concentrações = 12 caselas e foi "alatoriazada" dentro
+## de filmagem com a escolha das 12 box a serem registradas. As
+## respostas medidas são todas de contagem pois representam o número de
+## vezes que animal manisfestou cada comportamento, conforme a legenda.
+##
+## 01. bebendo
+## 02. bicando cama
+## 03. bicando outro frango
+## 04. explorando penas
+## 05. em pé parado
+## 06. em pé andando rápido
+## 07. em pé andando devagar
+## 08. deitado dormindo
+## 09. deitado observando 
+## 10. deitado de lado
+## 11. abrindo bico
+## 12. abrindo asas (espreguiçando)
+## 13. batendo asas
+## 14. banho de cama
+##
+filmagem	box	animal	ave	sexo	lin	conc	C01	C02	C03	C04	C05	C06	C07	C08	C09	C10	C11	C12	C13	C14
+I	36	1	I361	M	ross	0	0	6	0	0	0	0	2	2	8	0	1	0	0	0
+I	36	2	I362	M	ross	0	0	0	0	0	1	0	2	8	7	0	3	0	0	0
+I	36	3	I363	M	ross	0	0	0	0	0	2	0	0	6	9	0	3	1	0	0
+I	35	1	I351	M	ross	1	0	2	0	0	1	1	1	4	8	0	2	0	0	0
+I	35	2	I352	M	ross	1	3	1	0	2	1	0	4	3	4	1	0	2	0	0
+I	35	3	I353	M	ross	1	3	4	0	0	1	0	3	4	7	0	0	0	0	0
+I	22	1	I221	M	ross	5	3	0	0	1	2	0	4	2	7	0	0	0	0	0
+I	22	2	I222	M	ross	5	2	0	0	3	3	1	1	1	5	0	0	0	0	0
+I	22	3	I223	M	ross	5	0	1	0	4	1	0	2	1	8	0	0	0	0	0
+I	40	1	I401	M	cobb	0	0	2	0	0	0	0	2	4	6	0	0	0	0	0
+I	40	2	I402	M	cobb	0	0	0	0	1	0	0	1	5	5	0	0	0	0	0
+I	40	3	I403	M	cobb	0	0	0	0	5	0	0	1	3	5	0	0	1	0	0
+I	19	1	I191	M	cobb	1	3	0	0	1	2	1	3	0	6	0	2	0	0	0
+I	19	2	I192	M	cobb	1	4	1	0	0	4	1	1	3	5	0	0	0	0	0
+I	19	3	I193	M	cobb	1	2	0	0	2	2	1	1	0	6	0	0	0	0	0
+I	17	1	I171	M	cobb	5	3	0	0	1	2	0	4	2	7	0	0	0	0	0
+I	17	2	I172	M	cobb	5	2	0	0	3	3	1	1	1	5	0	0	0	0	0
+I	17	3	I173	M	cobb	5	0	1	0	4	1	0	2	1	8	0	0	0	0	0
+I	37	1	I371	F	cobb	0	0	0	0	0	0	0	0	4	5	1	1	2	0	0
+I	37	2	I372	F	cobb	0	2	0	0	1	2	0	1	3	4	0	0	0	0	0
+I	37	3	I373	F	cobb	0	0	0	0	1	3	0	1	4	3	0	0	0	2	0
+I	26	1	I261	F	cobb	1	5	0	0	0	1	0	1	1	5	0	0	0	0	0
+I	26	2	I262	F	cobb	1	0	0	0	0	1	0	0	4	8	0	1	0	0	0
+I	26	3	I263	F	cobb	1	3	0	1	1	0	2	3	6	0	0	1	0	0	0
+I	21	1	I211	F	cobb	5	3	0	0	1	2	0	4	2	7	0	0	0	0	0
+I	21	2	I212	F	cobb	5	2	0	0	3	3	1	1	1	5	0	0	0	0	0
+I	21	3	I213	F	cobb	5	0	1	0	4	1	0	2	1	8	0	0	0	0	0
+I	33	1	I331	F	ross	0	2	0	0	4	3	0	2	1	6	1	1	1	0	0
+I	33	2	I332	F	ross	0	0	0	0	1	1	0		2	5	0	3	0	1	0
+I	33	3	I333	F	ross	0	0	1	0	5	5	0	3	1	7	0	0	1	1	0
+I	38	1	I381	F	ross	1	1	1	0	4	2	0	2	2	8	0	0	0	1	0
+I	38	2	I382	F	ross	1	0	0	0	0	0	0	1	4	5	0	0	0	0	0
+I	38	3	I383	F	ross	1	0	0	0	0	0	0	0	6	7	0	2	0	0	0
+I	20	1	I201	F	ross	5	3	0	0	1	2	0	4	2	7	0	0	0	0	0
+I	20	2	I202	F	ross	5	2	0	0	3	3	1	1	1	5	0	0	0	0	0
+I	20	3	I203	F	ross	5	0	1	0	4	1	0	2	1	8	0	0	0	0	0
+II	27	1	II271	M	ross	0	0	0	0	0	0	0	0	6	2	2	0	0	0	0
+II	27	2	II272	M	ross	0	0	2	0	0	0	0	0	5	2	0	0	0	0	0
+II	27	3	II273	M	ross	0	2	0	0	6	2	0	1	2	5	0	0	1	0	0
+II	47	1	II471	M	ross	1	0	0	0	7	1	0	1	3	6	0	0	1	0	0
+II	47	2	II472	M	ross	1	0	0	0	3	0	0	0	5	5	1	1	0	0	0
+II	47	3	II473	M	ross	1	0	4	0	0	1	0	2	4	7	0	1	0	0	0
+II	21	1	II211	M	ross	5	0	0	0	2	0	0	0	4	5	0	0	0	0	0
+II	21	2	II212	M	ross	5	0	1	0	3	4	0	0	2	3	0	0	0	0	0
+II	21	3	II213	M	ross	5	0	0	0	0	0	0	0	6	3	0	0	0	0	0
+II	50	1	II501	M	cobb	0	0	5	0	0	0	0	1	1	7	0	0	0	0	0
+II	50	2	II502	M	cobb	0	0	0	0	2	0	0	0	2	5	3	0	1	0	0
+II	50	3	II503	M	cobb	0	0	1	0	0	2	0	0	5	5	0	0	0	0	0
+II	45	1	II451	M	cobb	1	0	0	0	7	1	0	1	3	6	0	0	1	0	0
+II	45	2	II452	M	cobb	1	0	0	0	3	0	0	0	5	5	1	1	0	0	0
+II	45	3	II453	M	cobb	1	0	4	0	0	1	0	2	4	7	0	1	0	0	0
+II	53	1	II531	M	cobb	5	1	0	0	1	3	0	0	7	5	0	0	0	0	0
+II	53	2	II532	M	cobb	5	0	0	0	6	3	1	1	0	6	0	0	0	2	0
+II	53	3	II533	M	cobb	5	0	0	0	0	1	0	3	2	8	1	0	3	0	0
+II	5	1	II51	F	cobb	0	0	0	0	2	0	0	2	4	5	0	0	0	0	0
+II	5	2	II52	F	cobb	0	0	0	0	0	0	0	0	7	2	0	0	0	0	0
+II	5	3	II53	F	cobb	0	0	0	0	0	0	0	0	4	5	0	0	0	0	0
+II	8	1	II81	F	cobb	1	0	0	0	3	3	0	1	3	6	0	0	0	0	0
+II	8	2	II82	F	cobb	1	0	3	0	3	0	0	0	2	7	0	0	1	0	0
+II	8	3	II83	F	cobb	1	6	0	0	0	2	0	0	0	2	0	0	1	0	0
+II	22	1	II221	F	cobb	5	1	0	0	1	3	0	0	7	5	0	0	0	0	0
+II	22	2	II222	F	cobb	5	0	0	0	6	3	1	1	0	6	0	0	0	2	0
+II	22	3	II223	F	cobb	5	0	0	0	0	1	0	3	2	8	1	0	3	0	0
+II	11	1	II111	F	ross	0	0	0	0	0	0	0	0	6	2	0	0	0	0	0
+II	11	2	II112	F	ross	0	0	0	0	0	0	0	0	5	4	0	0	0	0	0
+II	11	3	II113	F	ross	0	0	0	0	3	0	0	1	3	6	0	0	1	0	0
+II	10	1	II101	F	ross	1	0	2	0	0	0	0	1	5	4	0	0	0	0	0
+II	10	2	II102	F	ross	1	2	0	0	1	1	0	0	5	4	1	1	2	0	0
+II	10	3	II103	F	ross	1	1	1	0	3	1	0	2	2	6	0	0	0	0	0
+II	13	1	II131	F	ross	5	1	0	0	1	3	0	0	7	5	0	0	0	0	0
+II	13	2	II132	F	ross	5	0	0	0	6	3	1	1	0	6	0	0	0	2	0
+II	13	3	II133	F	ross	5	0	0	0	0	1	0	3	2	8	1	0	3	0	0
+III	9	1	III91	M	ross	0	0	2	1	3	2	5	0	0	0	1	2	0	2	0
+III	9	2	III92	M	ross	0	0	4	0	0	0	2	0	0	6	0	0	1	1	0
+III	9	3	III93	M	ross	0	0	1	1	1	2	4	0	0	1	1	1	2	1	0
+III	2	1	III21	M	ross	1	2	0	0	4	0	1	0	0	5	0	0	0	0	0
+III	2	2	III22	M	ross	1	1	2	1	2	6	5	2	0	6	0	0	0	1	0
+III	2	3	III23	M	ross	1	3	3	0	2	5	1	2	0	7	0	0	1	1	0
+III	22	1	III221	M	ross	5	0	5	1	0	3	0	3	0	7	0	0	1	0	0
+III	22	2	III222	M	ross	5	2	5	0	1	6	0	3	0	7	0	0	1	0	0
+III	22	3	III223	M	ross	5	1	1	0	0	2	0	1	3	4	0	0	0	0	0
+III	12	1	III121	M	cobb	0	0	0	0	3	3	0	0	0	7	0	0	2	0	0
+III	12	2	III122	M	cobb	0	0	7	0	1	1	0	1	1	7	0	0	2	0	0
+III	12	3	III123	M	cobb	0	0	0	0	0	8	0	3	1	9	0	0	1	0	0
+III	4	1	III41	M	cobb	1	0	0	0	2	3	0	0	5	6	0	2	1	0	0
+III	4	2	III42	M	cobb	1	5	1	0	4	4	0	2	1	6	0	0	3	0	0
+III	4	3	III43	M	cobb	1	0	0	1	0	2	0	0	4	7	0	0	2	0	0
+III	46	1	III461	M	cobb	5	0	3	0	3	2	0	3	0	11	0	1	2	1	0
+III	46	2	III462	M	cobb	5	6	4	3	1	3	1	3	0	7	0	0	1	0	0
+III	46	3	III463	M	cobb	5	2	1	0	2	2	0	0	1	8	0	0	0	0	0
+III	18	1	III181	F	cobb	0	3	0	0	3	2	0	2	2	7	0	0	3	0	0
+III	18	2	III182	F	cobb	0	4	0	0	1	0	0	4	1	5	0	0	2	0	0
+III	18	3	III183	F	cobb	0	2	0	0	5	1	0	1	2	6	0	0	1	0	0
+III	41	1	III411	F	cobb	1	0	0	0	2	3	1	0	3	7	1	0	3	0	0
+III	41	2	III412	F	cobb	1	2	1	1	4	5	1	2	3	7	0	0	1	0	0
+III	41	3	III413	F	cobb	1	0	2	0	2	3	0	2	4	5	0	0	1	0	0
+III	21	1	III211	F	cobb	5	1	3	2	0	6	2	2	0	7	0	0	1	0	0
+III	21	2	III212	F	cobb	5	3	0	0	0	1	1	0	0	5	0	0	0	0	0
+III	21	3	III213	F	cobb	5	3	0	0	1	5	1	1	0	5	0	0	0	0	0
+III	7	1	III71	F	ross	0	2	0	1	2	5	1	5	1	9	0	0	0	0	0
+III	7	2	III72	F	ross	0	0	6	0	3	1	0	4	0	6	0	0	0	0	0
+III	7	3	III73	F	ross	0	0	5	0	3	1	0	0	0	8	0	0	0	0	0
+III	34	1	III341	F	ross	1	0	2	1	3	2	5	0	0	0	1	2	0	2	0
+III	34	2	III342	F	ross	1	0	4	0	0	0	2	0	0	6	0	0	1	1	0
+III	34	3	III343	F	ross	1	0	1	1	1	2	4	0	0	1	1	1	2	1	0
+III	44	1	III441	F	ross	5	1	3	0	3	2	1	2	1	6	0	0	0	0	0
+III	44	2	III442	F	ross	5	0	3	0	1	5	1	1	1	6	0	0	1	0	0
+III	44	3	III443	F	ross	5	0	3	0	8	2	0	0	0	6	3	0	2	0	0

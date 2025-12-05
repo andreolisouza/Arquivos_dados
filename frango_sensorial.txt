@@ -1,0 +1,149 @@
+## Experimento realizado por Ana Flavia Basso Royer
+## (http://lattes.cnpq.br/4326885110656445) durante Mestrado em
+## Zootecnia Universidade Federal da Grande Dourados, Título da
+## Dissertação: Capim cidreira (Cymbopogon citratus Stapf) na dieta
+## hídrica pré abate de frangos de corte. Orientador: Rodrigo Garófallo
+## Garcia.
+##
+## O experimento avaliou variáveis sensoriais para pedações de peito de
+## frango servidos à 42 provadores (aval), tendo como fatores a
+## combinação do sexo da ave (sexo, M=macho, F=femea) e a concentração
+## de chá (conc) na dieta hídrica de pré abate das aves. O experimento
+## consiste de um DBC tendo avaliador como bloco um arranjo fatorial de
+## 2 sexos x 3 concentrações. As variáveis sensoriais foram medidas em
+## escala de 5 pontos (1=ruim, 5=bom) conforme legenda.
+##
+## tt: textura ao tato
+## ap: aparência
+## od: odor
+## tm: textura na mastigação
+## sc: suculência
+## sb: sabor
+##
+aval	sexo	conc	tt	ap	od	tm	sc	sb
+1	M	0	2	2	2	3	2	2
+2	M	0	5	4	4	4	5	5
+3	M	0	4	3	4	4	4	5
+4	M	0	4	2	3	4	4	3
+5	M	0	4	3	4	3	3	3
+6	M	0	5	5	4	5	4	5
+7	M	0	4	3	3	4	4	2
+8	M	0	5	4	3	5	4	4
+9	M	0	5	4	4	5	4	4
+10	M	0	3	5	3	3	2	3
+11	M	0	4	4	4	5	4	2
+12	M	0	4	3	3	4	4	3
+13	M	0	5	4	4	5	5	5
+14	M	0	4	4	4	4	5	5
+15	M	0	5	4	4	5	5	5
+16	M	0	4	4	4	4	4	4
+17	M	0	4	2	2	4	1	3
+18	M	0	4	4	4	4	4	4
+19	M	0	3	3	3	3	1	2
+20	M	0	5	4	5	5	4	5
+21	M	0	4	4	4	4	4	4
+22	M	0	4	4	4	5	4	4
+23	M	0	4	4	4	4	3	2
+24	M	0	5	4	5	5	4	5
+25	M	0	3	3	2	4	4	4
+26	M	0	2	2	3	4	4	4
+27	M	0	4	3	4	4	3	4
+28	M	0	4	3	3	5	5	2
+29	M	0	4	3	3	4	3	3
+30	M	0	3	2	3	4	4	4
+31	M	0	4	2	3	5	2	3
+32	M	0	5	4	5	5	3	4
+33	M	0	4	4	3	5	4	4
+34	M	0	4	3	3	4	2	4
+35	M	0	4	4	4	4	4	4
+36	M	0	3	2	3	4	2	2
+37	M	0	3	4	4	5	4	5
+38	M	0	4	3	3	4	4	2
+39	M	0	4	3	4	5	4	5
+40	M	0	4	3	2	4	5	3
+41	M	0	4	4	5	4	4	5
+42	M	0	5	5	4	5	5	5
+1	M	1	4	4	4	4	4	4
+2	M	1	5	5	4	5	5	5
+3	M	1	4	4	4	4	5	4
+4	M	1	3	2	3	4	2	2
+5	M	1	3	2	3	3	2	2
+6	M	1	5	4	4	3	2	3
+7	M	1	3	3	3	3	5	4
+8	M	1	3	3	4	4	2	4
+9	M	1	5	3	3	5	3	4
+10	M	1	4	4	4	4	3	3
+11	M	1	2	2	4	3	3	3
+12	M	1	3	4	4	3	4	4
+13	M	1	5	4	4	4	4	4
+14	M	1	5	5	5	3	3	3
+15	M	1	5	4	5	5	5	5
+16	M	1	4	4	4	4	3	4
+17	M	1	4	2	4	5	4	5
+18	M	1	4	3	4	4	4	4
+19	M	1	1	1	3	2	1	1
+20	M	1	4	3	4	3	3	3
+21	M	1	4	4	4	4	4	3
+22	M	1	4	4	4	5	4	4
+23	M	1	3	4	4	4	4	4
+24	M	1	3	4	3	4	3	3
+25	M	1	2	4	3	4	3	3
+26	M	1	4	4	4	5	3	5
+27	M	1	3	3	3	3	3	4
+28	M	1	3	2	4	4	4	4
+29	M	1	3	2	4	3	2	2
+30	M	1	2	3	3	4	3	4
+31	M	1	1	1	3	2	1	1
+32	M	1	3	2	3	3	3	3
+33	M	1	3	2	3	3	3	3
+34	M	1	2	3	3	4	2	4
+35	M	1	4	4	3	3	3	4
+36	M	1	3	3	3	4	3	3
+37	M	1	2	3	4	4	2	3
+38	M	1	2	3	2	2	1	2
+39	M	1	4	4	4	3	3	4
+40	M	1	5	4	3	5	5	3
+41	M	1	4	4	3	4	1	5
+42	M	1	1	1	1	2	1	1
+1	M	5	2	2	3	3	2	3
+2	M	5	5	3	5	4	4	5
+3	M	5	2	4	4	2	2	2
+4	M	5	3	2	3	4	2	3
+5	M	5	4	1	4	4	3	3
+6	M	5	3	3	4	4	3	4
+7	M	5	5	4	3	5	5	5
+8	M	5	5	3	4	5	2	4
+9	M	5	3	4	3	3	2	3
+10	M	5	1	3	5	1	2	2
+11	M	5	4	2	4	4	4	4
+12	M	5	4	4	4	3	3	5
+13	M	5	3	4	4	4	1	4
+14	M	5	4	2	2	5	4	4
+15	M	5	4	5	5	4	4	5
+16	M	5	3	4	4	3	3	4
+17	M	5	2	2	4	4	3	4
+18	M	5	3	2	4	3	3	3
+19	M	5	2	3	3	3	2	3
+20	M	5	4	3	5	4	3	5
+21	M	5	4	4	4	4	3	4
+22	M	5	3	4	4	4	4	4
+23	M	5	4	4	4	5	3	4
+24	M	5	3	4	4	3	2	2
+25	M	5	4	3	4	4	3	4
+26	M	5	2	2	4	4	3	4
+27	M	5	4	3	3	3	2	3
+28	M	5	2	3	4	3	3	4
+29	M	5	3	3	3	2	2	2
+30	M	5	4	3	3	5	3	3
+31	M	5	2	1	3	2	2	2
+32	M	5	4	4	4	4	4	4
+33	M	5	2	1	3	2	2	2
+34	M	5	2	3	3	3	2	3
+35	M	5	4	4	4	4	3	4
+36	M	5	3	3	4	3	4	3
+37	M	5	2	3	4	3	2	3
+38	M	5	3	3	3	4	2	4
+39	M	5	4	4	4	5	5	5
+40	M	5	2	2	3	3	3	4
+41	M	5	3	4	5	4	2	4
+42	M	5	4	2	3	3	2	2
