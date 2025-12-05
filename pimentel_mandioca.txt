@@ -1,0 +1,29 @@
+# Pimentel Gomes, F. (2009). Curso de estatística experimental (15th ed., p. 451). FEALQ.
+# Pimentel Gomes, página 93, seção 5.8
+# Experimento em DBC de ensaio de cultivares de mandioca em relação à produção (t/ha).
+bloco	variedade	producao
+i	Aipim bravo	14.5
+i	Milagrosa	5.7
+i	Sutinga	5.3
+i	Salangó Preta	4.6
+i	Mamão	14.8
+i	Escondida	8.2
+ii	Aipim bravo	15.8
+ii	Milagrosa	5.9
+ii	Sutinga	7.7
+ii	Salangó Preta	7.1
+ii	Mamão	12.6
+ii	Escondida	8.2
+iii	Aipim bravo	24
+iii	Milagrosa	10.5
+iii	Sutinga	10.2
+iii	Salangó Preta	10.4
+iii	Mamão	18.8
+iii	Escondida	12.7
+iv	Aipim bravo	17
+iv	Milagrosa	6.6
+iv	Sutinga	9.6
+iv	Salangó Preta	10.8
+iv	Mamão	16
+iv	Escondida	17.5
+

@@ -1,0 +1,70 @@
+## Dados obtidos pelo pesquisador Evane Ferreira, da Embrapa Arroz e
+## Feijão, em experimento realizado em 1998, cujo objetivo era medir a
+## resposta de um grupo de 8 genótipos de arroz ao ataque inicial de
+## pragas e se referem à produção de grãos em kg/ha. Zimmermann, pg 92,
+## tabela-5.2.
+linha	coluna	genotipo	producao
+1	1	CNA 8540	1306.75
+1	2	CNA 8436	1481.25
+1	3	Maravilha	586.25
+1	4	CNA 8172	708.75
+1	5	Caiapo	1193.75
+1	6	Primavera	825
+1	7	Canastra	1856.25
+1	8	CNA 8711	697.5
+2	1	CNA 8711	618.75
+2	2	Primavera	1251.25
+2	3	Canastra	822.5
+2	4	CNA 8436	846.25
+2	5	Maravilha	1051.25
+2	6	Caiapo	1070
+2	7	CNA 8540	1126.25
+2	8	CNA 8172	1301.25
+3	1	CNA 8172	1176.25
+3	2	Caiapo	1742.5
+3	3	CNA 8540	784.75
+3	4	Primavera	716.25
+3	5	Canastra	952.5
+3	6	Maravilha	1470
+3	7	CNA 8711	377.5
+3	8	CNA 8436	1162.5
+4	1	CNA 8436	852.5
+4	2	Maravilha	1680
+4	3	CNA 8711	317.5
+4	4	Caiapo	1038.75
+4	5	CNA 8540	1326.25
+4	6	Canastra	1250
+4	7	CNA 8172	962.5
+4	8	Primavera	738.75
+5	1	Primavera	700
+5	2	Canastra	1897.5
+5	3	CNA 8172	1096.25
+5	4	Maravilha	945
+5	5	CNA 8711	216.25
+5	6	CNA 8540	1767.5
+5	7	CNA 8436	1682.5
+5	8	Caiapo	1416.25
+6	1	Caiapo	1003.75
+6	2	CNA 8540	1726.25
+6	3	CNA 8436	2148.75
+6	4	Canastra	855
+6	5	CNA 8172	487.5
+6	6	CNA 8711	237.5
+6	7	Primavera	1198.75
+6	8	Maravilha	1498.75
+7	1	Maravilha	1395
+7	2	CNA 8711	313.75
+7	3	Primavera	1543.75
+7	4	CNA 8540	1421.25
+7	5	CNA 8436	1627.5
+7	6	CNA 8172	1367.5
+7	7	Caiapo	1283.75
+7	8	Canastra	1728.75
+8	1	Canastra	1991.25
+8	2	CNA 8172	1427.5
+8	3	Caiapo	936.25
+8	4	CNA 8711	307.5
+8	5	Primavera	1202.5
+8	6	CNA 8436	1395
+8	7	Maravilha	995
+8	8	CNA 8540	1335
