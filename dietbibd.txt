@@ -1,0 +1,23 @@
+# fonte: http://www.math.mun.ca/~sneddon/st3520/dietbibd.txt
+# age funciona como o bloco
+# fator de interesse é fat
+fat	age	lipids
+extremely low	[15,24]	0.73
+extremely low	[25,34]	0.86
+extremely low	[35,44]	NA
+extremely low	[45,54]	1.4
+extremely low	[55,64]	NA
+extremely low	[65,74]	0.83
+fairly low	[15,24]	0.67
+fairly low	[25,34]	NA
+fairly low	[35,44]	0.81
+fairly low	[45,54]	NA
+fairly low	[55,64]	1.41
+fairly low	[65,74]	1.04
+moderately low	[15,24]	NA
+moderately low	[25,34]	0.21
+moderately low	[35,44]	0.26
+moderately low	[45,54]	0.75
+moderately low	[55,64]	0.78
+moderately low	[65,74]	NA
+

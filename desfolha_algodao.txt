@@ -1,0 +1,282 @@
+## Experimento feito por Andersol Miguel da Silva como trabalho de
+## conclusão de Curso em Agronomia na UFGD (2007). O trabalho gerou a
+## seguinte publicação:
+##
+## SILVA, Anderson Miguel da ; Degrande, Paulo E. ; SUEKANE, Renato ;
+## FERNANDES, Marcos Gino ; Zeviani, Walmes M. . Impacto de diferentes
+## níveis de desfolha artificial nos estádios fenológicos do
+## algodoeiro. Revista de Ciências Agrárias (Lisboa), v. 35, p. 163,
+## 2012.
+##
+## O experimento consistiu em avaliar o efeito de doses artifiais de
+## desfolha (por meio de remoção de área foliar com tesoura) em fases de
+## desenvolvimento fenológico de plantas de algodão. Foi instalado sob
+## delineamento de blocos casualizados em casa de vegetação com duas
+## plantas por vaso. O arranjo experimental foi um fatorial de 5 fases
+## (fase) x 5 desfolhas (desf). Ao final do experimento registrou por
+## planta 4 variáveis e apenas o peso do capulhos que foi registrado por
+## parcela. Então os pesos da parcela nessa tabela estão registrados
+## como sendo da planta 1 com cédulas vazias para planta 2.
+##
+## fase: fase fenológica;
+## desf: nível de desfolha artificial, 0, 25, 50, 75 e 100% de remoção
+##       de área foliar com tesoura na respectiva fase.
+## planta: indentifica as duas plantas do vaso.
+## bloco: identifica os 5 blocos do experimento.
+## nestrrep: número de estruturas reprodutivas.
+## ncapu: número de capulhos produzidos.
+## alt: altura da planta (cm).
+## nnos: número de nós.
+## pesocap: peso total de capulhos (g).
+##
+fase	desf	planta	bloco	nestrrep	ncapu	alt	nnos	pesocap
+veget	0	1	1	5	5	73	16	33.16
+veget	0	1	2	4	4	63	17	28.675
+veget	0	1	3	4	4	65.5	14	31.485
+veget	0	1	4	6	5	85	15	28.925
+veget	0	1	5	5	5	72	15	36.43
+veget	25	1	1	5	5	77	15	34.105
+veget	25	1	2	5	5	74	17	30.01
+veget	25	1	3	6	5	59	10	37.338
+veget	25	1	4	5	5	81	14	27.93
+veget	25	1	5	5	5	75	13	29.32
+veget	50	1	1	4	4	70.5	13	25.228
+veget	50	1	2	4	4	79.5	16	26.205
+veget	50	1	3	5	5	65	13	33.327
+veget	50	1	4	4	4	75	15	26.75
+veget	50	1	5	5	5	65.5	12	33.2
+veget	75	1	1	5	5	65	13	30.18
+veget	75	1	2	3	3	79	17	27.306
+veget	75	1	3	3	2	75.5	13	27.277
+veget	75	1	4	5	4	73	14	28.305
+veget	75	1	5	4	4	72	12	32.03
+veget	100	1	1	5	5	71	13	24.323
+veget	100	1	2	2	2	78	19	20.875
+veget	100	1	3	2	2	71.5	14	20.755
+veget	100	1	4	5	5	80	17	16.235
+veget	100	1	5	2	2	73.5	15	22.2
+botflor	0	1	1	4	4	74	13	24.4
+botflor	0	1	2	4	4	74	14	30.015
+botflor	0	1	3	4	4	70	14	27.98
+botflor	0	1	4	5	5	75	15	32.437
+botflor	0	1	5	5	5	63	12	30.845
+botflor	25	1	1	5	5	64.5	12	28.815
+botflor	25	1	2	6	6	79.5	16	31.547
+botflor	25	1	3	4	4	66	14	26.453
+botflor	25	1	4	5	5	72	15	29.775
+botflor	25	1	5	4	4	70	17	27.7
+botflor	50	1	1	4	4	63	14	30.389
+botflor	50	1	2	4	4	74	15	26.957
+botflor	50	1	3	5	5	69	15	29.975
+botflor	50	1	4	5	5	64	14	35.43
+botflor	50	1	5	4	4	63	15	25.093
+botflor	75	1	1	6	5	74.5	15	34.501
+botflor	75	1	2	5	5	74	16	26.86
+botflor	75	1	3	4	4	70	16	20.5
+botflor	75	1	4	3	3	75	17	26.071
+botflor	75	1	5	2	2	57	16	24.929
+botflor	100	1	1	5	4	74	16	23.015
+botflor	100	1	2	5	4	87	17	25.007
+botflor	100	1	3	3	3	82	17	21.706
+botflor	100	1	4	3	3	71	18	22.449
+botflor	100	1	5	5	5	78	16	24.024
+floresc	0	1	1	4	4	60	15	27.681
+floresc	0	1	2	4	4	78.5	15	30.51
+floresc	0	1	3	5	5	76	17	29.555
+floresc	0	1	4	6	6	61	14	32.825
+floresc	0	1	5	5	5	63	15	23.2
+floresc	25	1	1	4	4	59	15	26.58
+floresc	25	1	2	4	2	72	18	15.6
+floresc	25	1	3	3	2	55.5	18	19.26
+floresc	25	1	4	4	4	69	15	26.174
+floresc	25	1	5	4	4	66	17	18.06
+floresc	50	1	1	4	2	73	13	23.666
+floresc	50	1	2	4	2	67	17	16.491
+floresc	50	1	3	4	4	63	15	23.31
+floresc	50	1	4	3	3	71	18	14.59
+floresc	50	1	5	4	4	74.5	20	25.425
+floresc	75	1	1	4	4	60	15	27.928
+floresc	75	1	2	4	3	43	10	15.475
+floresc	75	1	3	3	3	59	15	23.314
+floresc	75	1	4	3	3	59	16	20.62
+floresc	75	1	5	3	2	66	18	13.99
+floresc	100	1	1	4	4	68	15	16.851
+floresc	100	1	2	4	2	73	18	8.522
+floresc	100	1	3	4	3	80	17	9.686
+floresc	100	1	4	3	3	86	17	14.556
+floresc	100	1	5	4	4	63	14	17.435
+maça	0	1	1	5	5	62.5	13	28.103
+maça	0	1	2	5	5	62	13	28.9
+maça	0	1	3	5	5	75	16	25.46
+maça	0	1	4	4	4	65.5	12	27.69
+maça	0	1	5	5	5	61	13	34.75
+maça	25	1	1	4	4	67	14	30.678
+maça	25	1	2	4	4	72	15	30.36
+maça	25	1	3	2	2	62	15	23.33
+maça	25	1	4	5	5	71	14	19.581
+maça	25	1	5	3	2	62	15	28.655
+maça	50	1	1	4	4	58	14	27.991
+maça	50	1	2	4	4	66	14	26.994
+maça	50	1	3	5	5	59	14	30.878
+maça	50	1	4	4	4	71	14	28.358
+maça	50	1	5	5	5	73	15	29.39
+maça	75	1	1	4	2	52.5	14	20.312
+maça	75	1	2	4	4	72	17	22.56
+maça	75	1	3	3	3	63	15	23.81
+maça	75	1	4	3	3	58	16	20.754
+maça	75	1	5	4	4	55.5	15	22.23
+maça	100	1	1	5	2	51	19	8.75
+maça	100	1	2	4	1	82	17	4.735
+maça	100	1	3	1	1	65.5	17	5.56
+maça	100	1	4	2	2	67	17	9.055
+maça	100	1	5	2	2	53.5	18	5.535
+capulho	0	1	1	6	6	74.5	15	34.14
+capulho	0	1	2	4	4	68	15	28.777
+capulho	0	1	3	4	4	69.5	11	36.58
+capulho	0	1	4	6	6	66.5	14	38.32
+capulho	0	1	5	5	5	66	13	33.1
+capulho	25	1	1	4	4	74	14	29.128
+capulho	25	1	2	5	5	58.5	11	34.105
+capulho	25	1	3	5	5	68	13	28.87
+capulho	25	1	4	6	6	72	15	29.76
+capulho	25	1	5	4	4	55	14	33.763
+capulho	50	1	1	4	4	73	13	29.122
+capulho	50	1	2	2	2	67	14	25.97
+capulho	50	1	3	3	3	74.5	16	25.735
+capulho	50	1	4	4	4	72.5	12	29.93
+capulho	50	1	5	5	5	74.5	14	31.51
+capulho	75	1	1	3	3	52	12	29.46
+capulho	75	1	2	6	6	61	15	25.255
+capulho	75	1	3	5	5	61	14	32.48
+capulho	75	1	4	3	3	64	13	26.82
+capulho	75	1	5	5	5	70	14	28.74
+capulho	100	1	1	5	5	80	16	22.46
+capulho	100	1	2	4	4	78	16	25.75
+capulho	100	1	3	5	5	69	14	30.76
+capulho	100	1	4	5	5	71	15	22.2
+capulho	100	1	5	6	6	71	16	25.575
+veget	0	2	1	5	5	78	16	
+veget	0	2	2	5	5	82.5	12	
+veget	0	2	3	4	4	74	15	
+veget	0	2	4	3	3	70	12	
+veget	0	2	5	5	5	77.5	13	
+veget	25	2	1	6	6	79.5	15	
+veget	25	2	2	4	4	79.5	16	
+veget	25	2	3	5	5	68	13	
+veget	25	2	4	5	5	87.5	15	
+veget	25	2	5	5	5	77.5	13	
+veget	50	2	1	4	4	76	14	
+veget	50	2	2	4	4	77.5	14	
+veget	50	2	3	5	5	68	15	
+veget	50	2	4	4	4	81	15	
+veget	50	2	5	4	4	75	13	
+veget	75	2	1	4	4	75	15	
+veget	75	2	2	4	4	81.5	16	
+veget	75	2	3	5	5	80	14	
+veget	75	2	4	4	4	69.5	14	
+veget	75	2	5	5	5	77.5	14	
+veget	100	2	1	3	3	74	14	
+veget	100	2	2	4	4	83	16	
+veget	100	2	3	4	4	78	15	
+veget	100	2	4	1	0	69	16	
+veget	100	2	5	4	4	81.5	14	
+botflor	0	2	1	3	3	79	14	
+botflor	0	2	2	4	4	75	14	
+botflor	0	2	3	4	4	66	12	
+botflor	0	2	4	4	4	69	13	
+botflor	0	2	5	5	5	57	13	
+botflor	25	2	1	4	4	86	16	
+botflor	25	2	2	6	6	69	14	
+botflor	25	2	3	3	3	67	15	
+botflor	25	2	4	5	5	65	15	
+botflor	25	2	5	5	5	73	16	
+botflor	50	2	1	5	4	74	16	
+botflor	50	2	2	5	5	67.5	17	
+botflor	50	2	3	4	4	72	15	
+botflor	50	2	4	5	5	61.5	15	
+botflor	50	2	5	4	4	73	15	
+botflor	75	2	1	6	6	76	16	
+botflor	75	2	2	5	5	82	17	
+botflor	75	2	3	3	3	52	15	
+botflor	75	2	4	5	5	72.5	17	
+botflor	75	2	5	6	6	72.5	14	
+botflor	100	2	1	4	3	69	14	
+botflor	100	2	2	3	3	88	17	
+botflor	100	2	3	4	4	82	17	
+botflor	100	2	4	3	4	76	16	
+botflor	100	2	5	4	3	79	14	
+floresc	0	2	1	6	6	63.5	15	
+floresc	0	2	2	5	5	63	11	
+floresc	0	2	3	3	3	62	14	
+floresc	0	2	4	7	6	68	14	
+floresc	0	2	5	3	3	63	16	
+floresc	25	2	1	3	3	92	17	
+floresc	25	2	2	3	3	65	14	
+floresc	25	2	3	5	3	66.5	17	
+floresc	25	2	4	3	3	63	16	
+floresc	25	2	5	1	1	62	14	
+floresc	50	2	1	4	4	66	17	
+floresc	50	2	2	3	3	73	17	
+floresc	50	2	3	3	3	60.5	16	
+floresc	50	2	4	2	1	75	15	
+floresc	50	2	5	4	3	68	15	
+floresc	75	2	1	4	4	67	15	
+floresc	75	2	2	2	2	78.5	17	
+floresc	75	2	3	4	4	71	16	
+floresc	75	2	4	3	3	56.5	15	
+floresc	75	2	5	4	2	74	20	
+floresc	100	2	1	1	1	60	14	
+floresc	100	2	2	3	3	79	20	
+floresc	100	2	3	2	1	75	18	
+floresc	100	2	4	3	1	75	17	
+floresc	100	2	5	1	1	80.5	16	
+maça	0	2	1	3	3	65	14	
+maça	0	2	2	5	5	68.5	13	
+maça	0	2	3	2	2	58	16	
+maça	0	2	4	4	4	67	13	
+maça	0	2	5	5	5	66	13	
+maça	25	2	1	5	5	70	15	
+maça	25	2	2	4	2	60	15	
+maça	25	2	3	4	4	68	14	
+maça	25	2	4	3	3	51	14	
+maça	25	2	5	4	4	68	15	
+maça	50	2	1	5	5	57	15	
+maça	50	2	2	3	3	57	13	
+maça	50	2	3	5	6	68	15	
+maça	50	2	4	4	4	51	15	
+maça	50	2	5	4	4	60.5	15	
+maça	75	2	1	4	4	65	16	
+maça	75	2	2	3	2	61	14	
+maça	75	2	3	3	3	49	15	
+maça	75	2	4	3	3	61	16	
+maça	75	2	5	3	3	54.5	15	
+maça	100	2	1	2	1	75	16	
+maça	100	2	2	2	2	56.5	15	
+maça	100	2	3	4	1	73.5	18	
+maça	100	2	4	4	2	66	17	
+maça	100	2	5	1	1	57.5	19	
+capulho	0	2	1	5	5	62.5	14	
+capulho	0	2	2	3	3	69.5	14	
+capulho	0	2	3	5	5	69	15	
+capulho	0	2	4	6	6	61.5	13	
+capulho	0	2	5	6	6	64	11	
+capulho	25	2	1	5	5	75	13	
+capulho	25	2	2	8	8	84	16	
+capulho	25	2	3	3	3	73	17	
+capulho	25	2	4	4	4	51	10	
+capulho	25	2	5	6	6	57	14	
+capulho	50	2	1	5	5	70	16	
+capulho	50	2	2	5	5	70.5	14	
+capulho	50	2	3	5	4	73	15	
+capulho	50	2	4	5	5	76.5	14	
+capulho	50	2	5	4	4	60	14	
+capulho	75	2	1	5	5	60	16	
+capulho	75	2	2	2	2	72	15	
+capulho	75	2	3	5	5	74	16	
+capulho	75	2	4	5	5	66.5	11	
+capulho	75	2	5	5	5	78	15	
+capulho	100	2	1	4	4	71	15	
+capulho	100	2	2	4	4	62	13	
+capulho	100	2	3	5	5	71	14	
+capulho	100	2	4	3	3	74.5	16	
+capulho	100	2	5	4	4	71	15	
