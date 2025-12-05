@@ -1,0 +1,180 @@
+## Antônio Augusto Rocha Athayde
+##
+## Em consorcio com gramíneas ou cultivadas exclusivamente, as
+## leguminosas tropicais tem sido objeto de estudos visando a economia
+## do uso de fertilizantes e melhor valor nutritivo da forragem, no
+## entanto a baixa persistência de leguminosas consorciadas com gramínea
+## tem sido considerada limitante a continuidade e adesão ao uso desta
+## tecnologia. O objetivo deste trabalho foi avaliar efeitos de
+## adubação, na persistência de leguminosas em consórcio. Usou-se
+## Stylosanthes cvs. Mineirão (SM) e Campo Grande (SCG) e, Arachis
+## cvs. Amarilo (AA) e Belmonte (AB) em consórcio com Cynodon coastcross
+## (TESTEM). Os cortes foram realizados quando o coastcross atingia
+## 0,30m.
+##
+## Experimento que avalia o consórcio de gramineas com leguminosas e
+## combinação com a adubação e ao longo dos cortes da leguminosa. O
+## experimento está em blocos com arranjo de parcela subdividida. A
+## combinação dos fatores consórcio (cons) e adubação (adub, s=sim e
+## n=não) foram aleatorizados dentro dos blocos e os cortes consecutivos
+## são as subparcelas. Os níveis de consórcio foram testemunha (Cynodon
+## coastcross sozinho) e duas representantes do Stylosanthes e duas do
+## Arachis. Registou-se as seguintes variáveis.
+## 
+## calcio: niveis percentuais na ms, dos cortes de 2 -7
+## fosforo: níveis percentuais na ms, dos cortes de 2 - 7
+## mm: Matéria mineral, niveis percentuais de materia mineral 2-7
+## fdn: Fibra em detergente neutro percentuais cortes de 4-7
+## fda: Fibra em detergente acido percentuais cortes 2-7
+## divms: Digestibilidade in vitro da materia seca cortes de 3-7
+## pb: Niveis percentuais de proteina bruta cortes de 2-7
+## alt: Altura média de plantas (m) valiada no corte 7
+## prdms: Produção de materia seca por hectare cortes de 2-7
+## prdmv: Produção de materia verde por hectare cortes de 2-7
+##
+corte	trat	cons	adub	bloc	calcio	fosforo	mm	mo	fdn	fda	divms	pb	alt
+2	2	AA	s	I	1.93	0.18	9.54	90.46	NA	62.93	NA	13.93	NA
+2	3	AB	s	I	NA	NA	6.34	93.66	NA	47.53	NA	11.87	NA
+2	4	CG	s	I	1.76	0.17	5.27	94.73	NA	45.34	NA	13.91	NA
+2	5	SM	s	I	1.40	0.15	4.68	95.32	NA	55.94	NA	14.50	NA
+2	7	AA	n	I	1.97	0.23	6.15	93.85	NA	71.72	NA	14.58	NA
+2	8	AB	n	I	NA	0.15	6.98	93.02	NA	40.32	NA	11.39	NA
+2	9	CG	n	I	1.40	0.12	7.30	92.70	NA	48.54	NA	13.24	NA
+2	10	SM	n	I	1.49	NA	8.72	91.28	NA	55.67	NA	0.00	NA
+2	2	AA	s	II	1.93	0.22	9.69	90.31	NA	60.78	NA	14.92	NA
+2	3	AB	s	II	1.01	0.21	6.87	93.13	NA	57.00	NA	12.00	NA
+2	4	CG	s	II	1.32	0.21	6.12	93.88	NA	42.82	NA	10.52	NA
+2	5	SM	s	II	1.42	0.13	7.05	92.95	NA	37.76	NA	11.79	NA
+2	7	AA	n	II	1.79	0.18	9.16	90.84	NA	59.81	NA	14.09	NA
+2	8	AB	n	II	1.26	0.19	6.93	93.07	NA	38.98	NA	10.77	NA
+2	9	CG	n	II	1.43	0.11	7.52	92.48	NA	44.82	NA	12.10	NA
+2	10	SM	n	II	NA	NA	8.23	91.77	NA	54.02	NA	14.03	NA
+2	2	AA	s	III	1.62	0.24	12.24	87.76	NA	71.80	NA	12.04	NA
+2	3	AB	s	III	0.83	0.21	4.88	95.12	NA	36.00	NA	10.15	NA
+2	4	CG	s	III	1.39	0.15	7.80	92.20	NA	37.36	NA	11.23	NA
+2	5	SM	s	III	1.28	0.17	7.23	92.77	NA	37.86	NA	14.10	NA
+2	7	AA	n	III	1.67	0.26	11.18	88.82	NA	59.80	NA	12.33	NA
+2	8	AB	n	III	0.94	0.24	13.89	86.11	NA	38.56	NA	11.58	NA
+2	9	CG	n	III	1.49	0.14	9.63	90.37	NA	39.94	NA	12.52	NA
+2	10	SM	n	III	1.28	0.13	9.33	90.67	NA	43.52	NA	12.20	NA
+3	2	AA	s	I	1.42	0.19	10.70	89.30	NA	54.40	60.67	15.93	NA
+3	3	AB	s	I	0.77	0.17	8.55	91.45	NA	71.40	62.23	12.02	NA
+3	4	CG	s	I	1.24	0.15	7.53	92.47	NA	63.00	55.40	12.66	NA
+3	5	SM	s	I	1.00	0.12	6.40	93.60	NA	43.80	41.39	13.97	NA
+3	7	AA	n	I	0.93	0.10	7.46	92.54	NA	53.00	40.12	10.99	NA
+3	8	AB	n	I	1.17	0.14	8.70	91.30	NA	62.40	43.59	10.99	NA
+3	9	CG	n	I	1.31	0.13	6.80	93.20	NA	64.00	49.40	11.36	NA
+3	10	SM	n	I	1.25	0.17	9.52	90.48	NA	68.40	60.80	13.36	NA
+3	2	AA	s	II	1.46	0.2	9.17	90.83	NA	75.80	61.23	13.07	NA
+3	3	AB	s	II	0.84	0.18	8.05	91.95	NA	59.60	52.77	13.04	NA
+3	4	CG	s	II	1.00	0.15	6.25	93.75	NA	60.00	50.69	11.98	NA
+3	5	SM	s	II	1.19	0.15	6.96	93.04	NA	47.20	46.81	14.18	NA
+3	7	AA	n	II	1.25	0.17	10.98	89.02	NA	82.60	57.43	13.17	NA
+3	8	AB	n	II	0.87	0.16	7.14	92.86	NA	62.40	60.04	13.19	NA
+3	9	CG	n	II	1.11	0.11	6.49	93.51	NA	57.60	56.75	13.32	NA
+3	10	SM	n	II	1.14	0.17	6.67	93.33	NA	28.00	49.00	14.87	NA
+3	2	AA	s	III	1.43	0.21	8.58	91.42	NA	72.20	60.67	13.72	NA
+3	3	AB	s	III	0.96	0.22	7.43	92.57	NA	68.80	54.76	14.29	NA
+3	4	CG	s	III	1.16	0.16	6.73	93.27	NA	60.40	39.36	13.81	NA
+3	5	SM	s	III	1.14	0.16	7.38	92.62	NA	63.80	49.01	16.04	NA
+3	7	AA	n	III	1.49	0.18	10.00	90.00	NA	72.00	45.80	14.65	NA
+3	8	AB	n	III	1.07	0.16	7.74	92.26	NA	63.00	60.94	11.33	NA
+3	9	CG	n	III	1.02	0.10	6.59	93.41	NA	59.80	38.57	12.31	NA
+3	10	SM	n	III	1.15	0.12	6.64	93.36	NA	57.20	41.26	15.83	NA
+4	2	AA	s	I	1.95	0.21	9.72	90.28	48.74	66.74	64.57	12.18	NA
+4	3	AB	s	I	1.28	0.20	7.75	92.25	54.77	63.51	63.34	9.56	NA
+4	4	CG	s	I	1.53	0.15	6.28	93.72	67.09	59.03	57.30	9.34	NA
+4	5	SM	s	I	1.31	0.17	7.38	92.62	59.29	62.54	43.56	11.18	NA
+4	7	AA	n	I	2.38	0.19	10.39	89.61	49.83	48.86	60.67	11.18	NA
+4	8	AB	n	I	1.51	0.13	6.94	93.06	66.49	63.97	47.34	13.63	NA
+4	9	CG	n	I	1.11	0.07	5.72	94.28	60.71	51.31	53.44	7.11	NA
+4	10	SM	n	I	1.61	0.14	6.68	93.32	58.77	62.43	47.8	10.22	NA
+4	2	AA	s	II	2.24	0.20	10.35	89.65	59.80	60.17	58.76	12.00	NA
+4	3	AB	s	II	1.2	0.17	7.75	92.25	67.86	60.49	45.28	13.90	NA
+4	4	CG	s	II	1.22	0.13	6.32	93.68	49.89	51.00	49.40	13.08	NA
+4	5	SM	s	II	1.26	0.15	6.11	93.89	42.03	54.26	50.10	9.75	NA
+4	7	AA	n	II	1.85	0.17	6.35	93.65	67.77	68.54	43.11	9.87	NA
+4	8	AB	n	II	1.24	0.13	6.46	93.54	59.60	68.63	42.20	9.05	NA
+4	9	CG	n	II	1.47	0.08	4.76	95.24	54.51	54.57	58.95	9.12	NA
+4	10	SM	n	II	1.38	0.16	6.96	93.04	37.91	57.94	46.23	8.54	NA
+4	2	AA	s	III	2.25	0.19	9.86	90.14	29.69	65.54	56.61	11.52	NA
+4	3	AB	s	III	1.31	0.19	8.16	91.84	42.86	61.14	58.00	8.31	NA
+4	4	CG	s	III	1.31	0.13	5.85	94.15	52.94	48.71	45.76	11.06	NA
+4	5	SM	s	III	1.53	0.16	7.05	92.95	31.00	60.74	47.34	9.46	NA
+4	7	AA	n	III	1.97	0.22	9.56	90.44	47.11	59.89	48.73	8.82	NA
+4	8	AB	n	III	1.1	0.14	7.94	92.06	57.20	61.29	50.20	7.72	NA
+4	9	CG	n	III	1.08	0.07	5.57	94.43	53.46	56.57	38.66	8.55	NA
+4	10	SM	n	III	1.34	0.10	2.89	97.11	45.17	60.17	42.46	7.35	NA
+5	2	AA	s	I	2.05	0.22	10.27	89.73	68.20	61.11	73.46	11.66	NA
+5	3	AB	s	I	1.41	0.17	7.54	92.46	74.60	51.80	64.40	10.12	NA
+5	4	CG	s	I	1.74	0.14	5.45	94.55	65.74	53.26	62.18	11.21	NA
+5	5	SM	s	I	1.81	0.16	6.12	93.88	57.57	53.14	62.04	12.73	NA
+5	7	AA	n	I	2.18	0.20	9.52	90.48	79.66	61.77	72.42	11.13	NA
+5	8	AB	n	I	1.73	0.12	5.68	94.32	72.40	54.40	60.18	9.43	NA
+5	9	CG	n	I	1.78	0.11	4.55	95.45	59.26	54.03	62.60	9.76	NA
+5	10	SM	n	I	1.48	0.12	6.76	93.24	64.71	60.40	40.18	9.42	NA
+5	2	AA	s	II	2.14	0.19	9.20	90.80	75.74	63.37	73.5	11.90	NA
+5	3	AB	s	II	1.40	0.16	7.62	92.38	57.17	62.09	64.28	9.33	NA
+5	4	CG	s	II	1.72	0.12	5.71	94.29	74.06	52.46	62.96	6.93	NA
+5	5	SM	s	II	1.48	0.15	7.23	92.77	62.74	52.66	57.92	10.09	NA
+5	7	AA	n	II	1.83	0.18	3.79	96.21	73.49	68.49	70.96	11.03	NA
+5	8	AB	n	II	1.67	0.13	9.74	90.26	65.40	65.29	71.06	10.40	NA
+5	9	CG	n	II	1.35	0.12	5.92	94.08	59.17	50.74	61.02	8.69	NA
+5	10	SM	n	II	1.65	0.15	5.31	94.69	58.46	67.26	66.78	10.72	NA
+5	2	AA	s	III	2.07	0.20	11.05	88.95	74.06	64.83	61.32	11.25	NA
+5	3	AB	s	III	1.85	0.15	7.11	92.89	60.86	60.63	70.10	11.05	NA
+5	4	CG	s	III	1.43	0.13	0.99	99.01	66.69	49.80	63.96	9.63	NA
+5	5	SM	s	III	1.54	0.20	6.97	93.03	71.11	57.94	60.20	11.52	NA
+5	7	AA	n	III	2.05	0.18	9.52	90.48	61.20	55.31	62.96	9.80	NA
+5	8	AB	n	III	1.71	0.15	7.69	92.31	81.06	57.31	67.66	10.17	NA
+5	9	CG	n	III	1.27	0.27	5.45	94.55	60.06	44.86	62.84	7.67	NA
+5	10	SM	n	III	1.33	0.11	6.23	93.77	71.11	54.51	57.65	13.12	NA
+6	2	AA	s	I	1.60	0.20	9.59	90.41	38.34	75.31	67.02	19.48	NA
+6	3	AB	s	I	1.20	0.20	6.48	93.52	41.18	68.03	69.84	11.56	NA
+6	4	CG	s	I	1.30	0.10	6.13	93.87	38.54	70.63	59.32	8.84	NA
+6	5	SM	s	I	1.20	0.10	3.95	96.05	39.48	63.49	44.42	9.66	NA
+6	7	AA	n	I	1.90	0.20	8.22	91.78	43.74	71.97	75.02	10.50	NA
+6	8	AB	n	I	1.30	0.10	7.69	92.31	66.42	71.00	60.52	9.18	NA
+6	9	CG	n	I	1.30	0.10	7.05	92.95	46.34	56.06	55.46	9.57	NA
+6	10	SM	n	I	1.20	0.10	3.83	96.17	42.46	71.80	45.82	5.97	NA
+6	2	AA	s	II	2.00	0.20	10.96	89.04	51.26	63.63	62.48	11.39	NA
+6	3	AB	s	II	1.20	0.10	6.87	93.13	45.40	72.11	67.14	7.97	NA
+6	4	CG	s	II	1.10	0.10	4.41	95.59	48.56	55.58	60.49	7.88	NA
+6	5	SM	s	II	1.20	0.10	6.16	93.84	32.28	57.97	57.52	9.00	NA
+6	7	AA	n	II	1.50	0.10	11.34	88.66	45.66	61.86	67.04	14.96	NA
+6	8	AB	n	II	1.10	0.10	8.33	91.67	42.48	61.46	63.22	11.40	NA
+6	9	CG	n	II	1.00	0.10	5.58	94.42	40.26	63.37	61.22	6.96	NA
+6	10	SM	n	II	1.20	0.10	9.52	90.48	44.28	56.74	63.96	10.89	NA
+6	2	AA	s	III	1.80	0.20	11.86	88.14	47.34	65.23	64.82	7.51	NA
+6	3	AB	s	III	1.30	0.10	9.04	90.96	45.10	69.80	68.36	9.61	NA
+6	4	CG	s	III	1.20	0.10	5.56	94.44	42.82	57.43	67.04	9.52	NA
+6	5	SM	s	III	1.20	0.10	4.76	95.24	36.62	43.60	50.70	8.25	NA
+6	7	AA	n	III	1.90	0.20	6.25	93.75	46.82	66.63	67.10	10.69	NA
+6	8	AB	n	III	1.30	0.10	7.60	92.40	44.54	57.86	69.94	11.50	NA
+6	9	CG	n	III	1.10	0.10	5.07	94.93	36.06	52.80	59.58	9.63	NA
+6	10	SM	n	III	1.30	0.10	6.17	93.83	43.52	66.80	56.48	11.58	NA
+7	2	AA	s	I	3.00	0.20	9.63	90.37	47.29	63.80	65.02	11.42	0.14
+7	3	AB	s	I	2.50	0.20	8.10	91.90	39.71	61.86	57.02	12.34	0.09
+7	4	CG	s	I	2.10	0.10	4.32	95.68	39.03	54.20	57.82	11.07	0.48
+7	5	SM	s	I	2.10	0.10	4.64	95.36	39.86	52.20	48.18	8.76	0.72
+7	7	AA	n	I	3.11	0.18	7.66	92.34	51.03	67.84	57.94	11.48	0.14
+7	8	AB	n	I	2.05	0.11	4.83	95.17	48.86	56.10	45.36	10.07	0.67
+7	9	CG	n	I	2.19	0.09	4.72	95.28	32.89	53.22	56.64	10.10	0.51
+7	10	SM	n	I	2.18	0.08	4.68	95.32	38.69	48.66	51.78	9.21	0.60
+7	2	AA	s	II	2.10	0.10	13.26	86.74	44.00	55.96	48.04	7.66	0.14
+7	3	AB	s	II	2.23	0.14	8.61	91.39	46.25	59.80	66.22	11.75	0.13
+7	4	CG	s	II	2.09	0.14	6.43	93.57	41.43	53.98	55.32	8.45	0.62
+7	5	SM	s	II	1.90	0.12	6.50	93.50	30.26	52.86	46.98	8.67	0.93
+7	7	AA	n	II	2.90	0.16	6.83	93.17	56.17	68.60	61.52	11.29	0.08
+7	8	AB	n	II	2.55	0.13	5.03	94.97	46.34	65.76	60.18	13.11	0.07
+7	9	CG	n	II	1.93	0.08	3.66	96.34	34.91	43.02	60.26	5.25	0.62
+7	10	SM	n	II	2.30	0.10	6.46	93.54	47.09	63.80	62.02	9.48	0.10
+7	2	AA	s	III	3.13	0.17	7.69	92.31	44.91	62.88	46.98	11.12	0.12
+7	3	AB	s	III	2.60	0.1	6.32	93.68	47.23	62.58	75.08	12.94	0.19
+7	4	CG	s	III	1.71	0.12	4.56	95.44	34.03	51.44	60.48	9.18	0.62
+7	5	SM	s	III	2.10	0.11	6.58	93.42	27.09	49.98	54.12	9.05	0.96
+7	7	AA	n	III	3.06	0.16	3.27	96.73	52.57	69.28	68.74	10.09	0.15
+7	8	AB	n	III	2.60	0.13	7.43	92.57	37.14	63.94	69.04	11.77	0.12
+7	9	CG	n	III	2.06	0.08	5.00	95.00	36.03	39.30	38.98	7.54	0.59
+7	10	SM	n	III	2.00	0.1	5.21	94.79	33.20	54.12	46.74	11.29	0.82
+

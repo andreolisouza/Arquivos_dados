@@ -1,0 +1,209 @@
+## Antônio Augusto Rocha Athayde
+##
+## Em consorcio com gramíneas ou cultivadas exclusivamente, as
+## leguminosas tropicais tem sido objeto de estudos visando a economia
+## do uso de fertilizantes e melhor valor nutritivo da forragem, no
+## entanto a baixa persistência de leguminosas consorciadas com gramínea
+## tem sido considerada limitante a continuidade e adesão ao uso desta
+## tecnologia. O objetivo deste trabalho foi avaliar efeitos de
+## adubação, na persistência de leguminosas em consórcio. Usou-se
+## Stylosanthes cvs. Mineirão (SM) e Campo Grande (SCG) e, Arachis
+## cvs. Amarilo (AA) e Belmonte (AB) em consórcio com Cynodon coastcross
+## (TESTEM). Os cortes foram realizados quando o coastcross atingia
+## 0,30m.
+##
+## Experimento que avalia o consórcio de gramineas com leguminosas e
+## combinação com a adubação e ao longo dos cortes da leguminosa. O
+## experimento está em blocos com arranjo de parcela subdividida. A
+## combinação dos fatores consórcio (cons) e adubação (adub, s=sim e
+## n=não) foram aleatorizados dentro dos blocos e os cortes consecutivos
+## são as subparcelas. Dentro das parcelas, o estrato vegetal foi
+## coletado e determinou-se o teor de matéria seca correspondente a
+## graminea, leguminosa do consórcio e invasoras (plantas daninhas). A
+## soma dos três dá 100%, portanto um dado composicional. Na testemunha,
+## por não ser um consórcio, o teor de leguminosa é 0%. Os níveis de
+## consórcio foram testemunha (Cynodon coastcross sozinho) e duas
+## representantes do Stylosanthes e duas do Arachis.
+##
+corte	cons	adub	bloc	amostra	graminea	leguminosa	invasoras
+2	TESTEM	s	I	1	90.07	0.00	9.93
+2	SCG	s	I	2	29.78	58.13	12.09
+2	AB	s	I	3	65.74	19.56	14.71
+2	SM	s	I	4	23.95	71.54	4.51
+2	AA	s	I	5	23.43	62.98	13.60
+2	TESTEM	n	I	6	89.42	0.00	10.58
+2	SCG	n	I	7	71.62	19.39	8.99
+2	AA	n	I	8	35.61	47.29	17.10
+2	SM	n	I	9	58.41	38.28	3.31
+2	AB	n	I	10	31.45	62.01	6.54
+2	AB	s	II	11	71.37	22.92	5.71
+2	TESTEM	s	II	12	81.85	0.00	18.15
+2	SCG	s	II	13	85.09	9.41	5.50
+2	AA	s	II	14	40.38	54.89	4.73
+2	SM	s	II	15	14.97	76.90	8.13
+2	AB	n	II	16	59.80	28.72	11.48
+2	TESTEM	n	II	17	96.25	0.00	3.75
+2	SCG	n	II	18	30.61	66.62	2.76
+2	AA	n	II	19	52.55	47.45	0.00
+2	SM	n	II	20	92.73	7.27	0.00
+2	SM	s	III	21	36.61	53.88	9.51
+2	AB	s	III	22	53.10	34.70	12.20
+2	TESTEM	s	III	23	65.58	0.00	34.42
+2	SCG	s	III	24	60.64	35.65	3.71
+2	AA	s	III	25	42.13	45.31	12.57
+2	SM	n	III	26	30.66	66.98	2.36
+2	AB	n	III	27	68.90	22.48	8.62
+2	TESTEM	n	III	28	94.99	0.00	5.01
+2	SCG	n	III	29	18.50	64.07	17.42
+2	AA	n	III	30	66.10	30.22	3.68
+3	TESTEM	s	I	1	78.29	0.00	21.71
+3	SCG	s	I	2	46.74	22.56	30.69
+3	AB	s	I	3	55.46	22.12	22.42
+3	SM	s	I	4	49.10	38.74	12.16
+3	AA	s	I	5	44.44	33.13	22.43
+3	TESTEM	n	I	6	79.32	0.00	20.68
+3	SCG	n	I	7	61.62	24.47	13.91
+3	AA	n	I	8	42.54	39.41	18.04
+3	SM	n	I	9	56.94	35.48	7.58
+3	AB	n	I	10	51.70	37.12	11.18
+3	AB	s	II	11	67.01	23.36	9.63
+3	TESTEM	s	II	12	74.03	0.00	25.97
+3	SCG	s	II	13	74.39	14.61	11.00
+3	AA	s	II	14	60.67	30.64	8.69
+3	SM	s	II	15	36.55	42.08	21.38
+3	AB	n	II	16	53.62	28.79	17.59
+3	TESTEM	n	II	17	89.76	0.00	10.24
+3	SCG	n	II	18	55.84	37.97	6.19
+3	AA	n	II	19	56.61	35.83	7.56
+3	SM	n	II	20	86.73	13.27	0.00
+3	SM	s	III	21	47.04	40.65	12.31
+3	AB	s	III	22	51.64	29.93	18.44
+3	TESTEM	s	III	23	50.27	0.00	49.73
+3	SCG	s	III	24	56.23	36.07	7.71
+3	AA	s	III	25	53.20	32.95	13.85
+3	SM	n	III	26	48.97	44.40	6.64
+3	AB	n	III	27	53.72	26.46	19.81
+3	TESTEM	n	III	28	91.23	0.00	8.77
+3	SCG	n	III	29	44.34	38.18	17.48
+3	AA	n	III	30	65.88	26.80	7.32
+4	TESTEM	s	I	1	86.44	0.00	13.56
+4	SCG	s	I	2	51.83	34.93	13.24
+4	AB	s	I	3	50.08	34.27	15.65
+4	SM	s	I	4	50.23	37.83	11.94
+4	AA	s	I	5	33.43	50.15	16.42
+4	TESTEM	n	I	6	82.13	0.00	17.87
+4	SCG	n	I	7	30.06	61.15	8.79
+4	AA	n	I	8	68.74	15.27	15.99
+4	SM	n	I	9	31.49	60.61	7.90
+4	AB	n	I	10	59.48	29.07	11.45
+4	AB	s	II	11	39.20	52.06	8.74
+4	TESTEM	s	II	12	72.73	0.00	27.27
+4	SCG	s	II	13	45.44	39.60	14.96
+4	AA	s	II	14	40.35	54.57	5.08
+4	SM	s	II	15	40.18	47.24	12.58
+4	AB	n	II	16	60.45	30.22	9.33
+4	TESTEM	n	II	17	89.05	0.00	10.95
+4	SCG	n	II	18	30.01	66.94	3.06
+4	AA	n	II	19	39.50	45.14	15.36
+4	SM	n	II	20	52.96	35.93	11.11
+4	SM	s	III	21	30.14	35.43	34.43
+4	AB	s	III	22	45.77	44.14	10.09
+4	TESTEM	s	III	23	81.89	0.00	18.11
+4	SCG	s	III	24	50.33	42.95	6.72
+4	AA	s	III	25	56.77	32.30	10.94
+4	SM	n	III	26	0.00	82.30	17.70
+4	AB	n	III	27	32.53	53.72	13.75
+4	TESTEM	n	III	28	85.58	0.00	14.42
+4	SCG	n	III	29	29.17	57.67	13.16
+4	AA	n	III	30	42.57	49.86	7.57
+5	TESTEM	s	I	1	88.92	0.00	11.08
+5	SCG	s	I	2	20.50	76.44	3.06
+5	AB	s	I	3	36.46	55.79	7.75
+5	SM	s	I	4	35.60	60.19	4.21
+5	AA	s	I	5	32.01	54.69	13.30
+5	TESTEM	n	I	6	65.57	0.00	34.43
+5	SCG	n	I	7	15.65	77.14	7.22
+5	AA	n	I	8	67.64	17.45	14.91
+5	SM	n	I	9	23.16	72.73	4.11
+5	AB	n	I	10	21.68	69.75	8.57
+5	AB	s	II	11	52.78	41.67	5.55
+5	TESTEM	s	II	12	81.82	0.00	18.18
+5	SCG	s	II	13	47.19	46.63	6.18
+5	AA	s	II	14	50.46	45.35	4.19
+5	SM	s	II	15	24.31	69.49	6.20
+5	AB	n	II	16	43.32	49.22	7.46
+5	TESTEM	n	II	17	90.80	0.00	9.20
+5	SCG	n	II	18	26.60	73.40	0.00
+5	AA	n	II	19	37.55	50.33	12.13
+5	SM	n	II	20	56.52	25.44	18.04
+5	SM	s	III	21	60.87	9.68	29.44
+5	AB	s	III	22	62.66	29.94	7.41
+5	TESTEM	s	III	23	92.64	0.00	7.36
+5	SCG	s	III	24	48.58	46.30	5.11
+5	AA	s	III	25	57.95	32.51	9.54
+5	SM	n	III	26	46.54	50.38	3.07
+5	AB	n	III	27	62.17	24.52	13.31
+5	TESTEM	n	III	28	88.41	0.00	11.59
+5	SCG	n	III	29	50.47	43.92	5.62
+5	AA	n	III	30	75.85	19.09	5.06
+6	TESTEM	s	I	1	57.48	0.00	42.52
+6	SCG	s	I	2	30.37	64.92	4.71
+6	AB	s	I	3	14.77	76.37	8.86
+6	SM	s	I	4	31.02	55.56	13.43
+6	AA	s	I	5	28.74	53.29	17.96
+6	TESTEM	n	I	6	27.69	0.00	72.31
+6	SCG	n	I	7	16.50	69.00	14.50
+6	AA	n	I	8	56.16	25.34	18.49
+6	SM	n	I	9	19.92	69.29	10.79
+6	AB	n	I	10	25.44	43.20	31.36
+6	AB	s	II	11	19.61	72.55	7.84
+6	TESTEM	s	II	12	34.78	0.00	65.22
+6	SCG	s	II	13	44.29	40.95	14.76
+6	AA	s	II	14	40.86	55.20	3.94
+6	SM	s	II	15	24.53	63.52	11.95
+6	AB	n	II	16	15.02	73.91	11.07
+6	TESTEM	n	II	17	59.12	0.00	40.88
+6	SCG	n	II	18	61.73	29.22	9.05
+6	AA	n	II	19	19.21	24.29	56.50
+6	SM	n	II	20	28.99	62.32	8.70
+6	SM	s	III	21	23.53	39.04	37.43
+6	AB	s	III	22	37.58	57.05	5.37
+6	TESTEM	s	III	23	66.42	0.00	33.58
+6	SCG	s	III	24	46.15	44.51	9.34
+6	AA	s	III	25	59.69	33.51	6.81
+6	SM	n	III	26	30.38	61.77	7.85
+6	AB	n	III	27	29.69	59.90	10.42
+6	TESTEM	n	III	28	85.71	0.00	14.29
+6	SCG	n	III	29	23.29	57.43	19.28
+6	AA	n	III	30	57.22	37.78	5.00
+7	TESTEM	s	I	1	58.83	0.00	41.17
+7	SCG	s	I	2	35.35	64.65	0.00
+7	AB	s	I	3	14.22	36.83	48.96
+7	SM	s	I	4	43.04	56.96	0.00
+7	AA	s	I	5	52.31	32.77	14.92
+7	TESTEM	n	I	6	35.47	0.00	64.53
+7	SCG	n	I	7	11.17	79.77	9.06
+7	AA	n	I	8	68.01	17.03	14.96
+7	SM	n	I	9	10.09	72.21	17.70
+7	AB	n	I	10	6.78	88.26	4.96
+7	AB	s	II	11	22.07	66.06	11.88
+7	TESTEM	s	II	12	21.79	0.00	78.21
+7	SCG	s	II	13	28.65	47.01	24.35
+7	AA	s	II	14	51.46	20.29	28.25
+7	SM	s	II	15	18.41	78.02	3.56
+7	AB	n	II	16	19.84	70.37	9.80
+7	TESTEM	n	II	17	62.18	0.00	37.82
+7	SCG	n	II	18	45.57	51.28	3.15
+7	AA	n	II	19	48.94	27.45	23.61
+7	SM	n	II	20	51.02	42.14	6.84
+7	SM	s	III	21	13.56	74.86	11.58
+7	AB	s	III	22	30.64	43.59	25.77
+7	TESTEM	s	III	23	72.03	0.00	27.97
+7	SCG	s	III	24	100.00	0.00	0.00
+7	AA	s	III	25	48.29	11.85	39.86
+7	SM	n	III	26	10.97	76.88	12.16
+7	AB	n	III	27	39.66	46.19	14.15
+7	TESTEM	n	III	28	70.66	0.00	29.34
+7	SCG	n	III	29	43.35	48.83	7.82
+7	AA	n	III	30	71.24	22.01	6.75
+
