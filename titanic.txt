@@ -1,0 +1,8 @@
+
+https://cdr.ibpad.com.br/revisão-titanic.html
+
+https://cdr.ibpad.com.br/revisão-titanic.html
+library(titanic)
+data("titanic_train")
+# Base de treinamento
+head(titanic_train)
