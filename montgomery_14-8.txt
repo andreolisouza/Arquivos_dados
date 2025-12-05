@@ -1,0 +1,42 @@
+# Montgomery, D. C., & Runger, G. C. (2006). Applied Statistics and Probability for Engineers (p. 784). Wiley.
+# Montgomery, D. C., & Runger, G. C. (2009). Estatística aplicada e probabilidade para engenheiros. LTC. (tradução)
+# Exercício 14.8
+# Efeito da frequencia ciclica de carregamento e condições ambientais no crescimento da fratura por fadiga.
+frequencia	ambiente	taxa
+10	ar	2.29
+10	ar	2.47
+10	ar	2.48
+10	ar	2.12
+1	ar	2.65
+1	ar	2.68
+1	ar	2.06
+1	ar	2.38
+0.1	ar	2.24
+0.1	ar	2.71
+0.1	ar	2.81
+0.1	ar	2.08
+10	agua pura	2.06
+10	agua pura	2.05
+10	agua pura	2.23
+10	agua pura	2.03
+1	agua pura	3.2
+1	agua pura	3.18
+1	agua pura	3.96
+1	agua pura	3.64
+0.1	agua pura	11
+0.1	agua pura	11
+0.1	agua pura	9.06
+0.1	agua pura	11.3
+10	agua salgada	1.9
+10	agua salgada	1.93
+10	agua salgada	1.75
+10	agua salgada	2.06
+1	agua salgada	3.1
+1	agua salgada	3.24
+1	agua salgada	3.98
+1	agua salgada	3.24
+0.1	agua salgada	9.96
+0.1	agua salgada	10.01
+0.1	agua salgada	9.36
+0.1	agua salgada	10.4
+

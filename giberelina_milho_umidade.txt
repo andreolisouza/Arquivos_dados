@@ -1,0 +1,268 @@
+## Experimento conduzido por Antonio Ariel Canedo Rivera
+## (http://lattes.cnpq.br/2963994727678120), aluno de mestrado da UFLA
+## (2009).
+##
+## Experimento sob tipos de armazenamentos de sementes de milho doce.
+## Avaliou a influencia de diferentes doses de giberelina, na umidade de
+## sementes de milho doce durante o armazenamento, de acordo com os
+## tipos de embalagem e tamanhos de sementes durante o
+## armazenamento. Sementes de dois tipos de peneira foram armazenadas
+## com diferentes doses de giberelina em embalagens à vácuo e permeáveis
+## sob temperaturas de 10C e 25C. Depois de armazenadas, as sementes
+## foram avaliadas 0, 30, 60, 120 240 dias após o armazenamento e a
+## umidade foi registrada. Foram usadas 2 repetições.
+##
+## embalagem: tipo de embalagem para sementes, embaladas à vácuo ou em
+##            embalagens permeáveis;
+## peneira: tipo de peneira para separar sementes de milho, redonda ou
+##          chata;
+## temperat: temperatura de armazenamento, 10ºC e temperatura ambiente
+##           na UBS do Laboratório de Análise de Sementes do DAG/UFLA;
+## giberelina: tratamento com giberelina nas concentrações de 0, 10, e
+##             20 mg/L;
+## armaz: avaliações antes do armazenamento e após 30, 60, 120 e 240
+##        dias;
+## rept: unidade experimental;
+## umidade: teor de umidade das sementes (%).
+##
+embalagem	peneira	temperat	giberelina	armaz	rept	umidade
+permeavel	chata	10	0	0	1	13.14
+permeavel	chata	10	0	0	2	13.25
+permeavel	chata	10	0	30	1	13.07
+permeavel	chata	10	0	30	2	12.94
+permeavel	chata	10	0	60	1	12.92
+permeavel	chata	10	0	60	2	12.82
+permeavel	chata	10	0	120	1	12.71
+permeavel	chata	10	0	120	2	13.06
+permeavel	chata	10	0	240	1	12.56
+permeavel	chata	10	0	240	2	12.8
+permeavel	chata	10	10	0	1	12.1
+permeavel	chata	10	10	0	2	12.15
+permeavel	chata	10	10	30	1	13.88
+permeavel	chata	10	10	30	2	13.89
+permeavel	chata	10	10	60	1	13.52
+permeavel	chata	10	10	60	2	13.49
+permeavel	chata	10	10	120	1	12.62
+permeavel	chata	10	10	120	2	12.82
+permeavel	chata	10	10	240	1	12.66
+permeavel	chata	10	10	240	2	12.56
+permeavel	chata	10	20	0	1	10.88
+permeavel	chata	10	20	0	2	10.6
+permeavel	chata	10	20	30	1	13.16
+permeavel	chata	10	20	30	2	13.27
+permeavel	chata	10	20	60	1	12.71
+permeavel	chata	10	20	60	2	12.68
+permeavel	chata	10	20	120	1	12.52
+permeavel	chata	10	20	120	2	12.68
+permeavel	chata	10	20	240	1	12.49
+permeavel	chata	10	20	240	2	12.49
+permeavel	chata	25	0	0	1	13.14
+permeavel	chata	25	0	0	2	13.25
+permeavel	chata	25	0	30	1	10.63
+permeavel	chata	25	0	30	2	10.8
+permeavel	chata	25	0	60	1	11.72
+permeavel	chata	25	0	60	2	12.02
+permeavel	chata	25	0	120	1	12.13
+permeavel	chata	25	0	120	2	12.2
+permeavel	chata	25	0	240	1	11.88
+permeavel	chata	25	0	240	2	11.89
+permeavel	chata	25	10	0	1	12.1
+permeavel	chata	25	10	0	2	12.15
+permeavel	chata	25	10	30	1	10.29
+permeavel	chata	25	10	30	2	10.78
+permeavel	chata	25	10	60	1	11.51
+permeavel	chata	25	10	60	2	11.76
+permeavel	chata	25	10	120	1	11.86
+permeavel	chata	25	10	120	2	11.86
+permeavel	chata	25	10	240	1	11.74
+permeavel	chata	25	10	240	2	11.67
+permeavel	chata	25	20	0	1	10.88
+permeavel	chata	25	20	0	2	10.6
+permeavel	chata	25	20	30	1	10.38
+permeavel	chata	25	20	30	2	10.43
+permeavel	chata	25	20	60	1	11.73
+permeavel	chata	25	20	60	2	11.63
+permeavel	chata	25	20	120	1	11.68
+permeavel	chata	25	20	120	2	11.77
+permeavel	chata	25	20	240	1	11.9
+permeavel	chata	25	20	240	2	11.88
+permeavel	redonda	10	0	0	1	12.86
+permeavel	redonda	10	0	0	2	12.62
+permeavel	redonda	10	0	30	1	13.06
+permeavel	redonda	10	0	30	2	12.85
+permeavel	redonda	10	0	60	1	12.93
+permeavel	redonda	10	0	60	2	12.87
+permeavel	redonda	10	0	120	1	12.71
+permeavel	redonda	10	0	120	2	12.62
+permeavel	redonda	10	0	240	1	12.34
+permeavel	redonda	10	0	240	2	12.44
+permeavel	redonda	10	10	0	1	10.01
+permeavel	redonda	10	10	0	2	10.21
+permeavel	redonda	10	10	30	1	13.19
+permeavel	redonda	10	10	30	2	13.21
+permeavel	redonda	10	10	60	1	12.86
+permeavel	redonda	10	10	60	2	13.13
+permeavel	redonda	10	10	120	1	12.62
+permeavel	redonda	10	10	120	2	12.87
+permeavel	redonda	10	10	240	1	12.93
+permeavel	redonda	10	10	240	2	13.1
+permeavel	redonda	10	20	0	1	10.98
+permeavel	redonda	10	20	0	2	11.25
+permeavel	redonda	10	20	30	1	13.56
+permeavel	redonda	10	20	30	2	13.47
+permeavel	redonda	10	20	60	1	13.14
+permeavel	redonda	10	20	60	2	13.14
+permeavel	redonda	10	20	120	1	13.05
+permeavel	redonda	10	20	120	2	13.39
+permeavel	redonda	10	20	240	1	13.08
+permeavel	redonda	10	20	240	2	13.08
+permeavel	redonda	25	0	0	1	12.86
+permeavel	redonda	25	0	0	2	12.62
+permeavel	redonda	25	0	30	1	10.46
+permeavel	redonda	25	0	30	2	10.43
+permeavel	redonda	25	0	60	1	11.59
+permeavel	redonda	25	0	60	2	11.54
+permeavel	redonda	25	0	120	1	11.92
+permeavel	redonda	25	0	120	2	11.85
+permeavel	redonda	25	0	240	1	11.83
+permeavel	redonda	25	0	240	2	11.94
+permeavel	redonda	25	10	0	1	10.01
+permeavel	redonda	25	10	0	2	10.21
+permeavel	redonda	25	10	30	1	10.55
+permeavel	redonda	25	10	30	2	10.54
+permeavel	redonda	25	10	60	1	11.78
+permeavel	redonda	25	10	60	2	11.42
+permeavel	redonda	25	10	120	1	11.88
+permeavel	redonda	25	10	120	2	11.74
+permeavel	redonda	25	10	240	1	11.89
+permeavel	redonda	25	10	240	2	12.1
+permeavel	redonda	25	20	0	1	10.98
+permeavel	redonda	25	20	0	2	11.25
+permeavel	redonda	25	20	30	1	10.58
+permeavel	redonda	25	20	30	2	10.49
+permeavel	redonda	25	20	60	1	11.83
+permeavel	redonda	25	20	60	2	11.8
+permeavel	redonda	25	20	120	1	11.74
+permeavel	redonda	25	20	120	2	11.94
+permeavel	redonda	25	20	240	1	11.94
+permeavel	redonda	25	20	240	2	11.98
+vacuo	chata	10	0	0	1	13.14
+vacuo	chata	10	0	0	2	13.25
+vacuo	chata	10	0	30	1	12.55
+vacuo	chata	10	0	30	2	12.4
+vacuo	chata	10	0	60	1	12.57
+vacuo	chata	10	0	60	2	12.47
+vacuo	chata	10	0	120	1	12.72
+vacuo	chata	10	0	120	2	12.84
+vacuo	chata	10	0	240	1	12.69
+vacuo	chata	10	0	240	2	12.75
+vacuo	chata	10	10	0	1	12.1
+vacuo	chata	10	10	0	2	12.15
+vacuo	chata	10	10	30	1	12.52
+vacuo	chata	10	10	30	2	12.5
+vacuo	chata	10	10	60	1	12.03
+vacuo	chata	10	10	60	2	12.08
+vacuo	chata	10	10	120	1	11.88
+vacuo	chata	10	10	120	2	11.96
+vacuo	chata	10	10	240	1	13
+vacuo	chata	10	10	240	2	12.77
+vacuo	chata	10	20	0	1	10.88
+vacuo	chata	10	20	0	2	10.6
+vacuo	chata	10	20	30	1	13.13
+vacuo	chata	10	20	30	2	12.91
+vacuo	chata	10	20	60	1	12.85
+vacuo	chata	10	20	60	2	13.04
+vacuo	chata	10	20	120	1	12.5
+vacuo	chata	10	20	120	2	12.43
+vacuo	chata	10	20	240	1	13.29
+vacuo	chata	10	20	240	2	13.15
+vacuo	chata	25	0	0	1	13.14
+vacuo	chata	25	0	0	2	13.25
+vacuo	chata	25	0	30	1	12.26
+vacuo	chata	25	0	30	2	12.22
+vacuo	chata	25	0	60	1	11.92
+vacuo	chata	25	0	60	2	11.8
+vacuo	chata	25	0	120	1	12.09
+vacuo	chata	25	0	120	2	12.13
+vacuo	chata	25	0	240	1	12.1
+vacuo	chata	25	0	240	2	11.9
+vacuo	chata	25	10	0	1	12.1
+vacuo	chata	25	10	0	2	12.15
+vacuo	chata	25	10	30	1	12.16
+vacuo	chata	25	10	30	2	12.32
+vacuo	chata	25	10	60	1	11.87
+vacuo	chata	25	10	60	2	11.8
+vacuo	chata	25	10	120	1	11.8
+vacuo	chata	25	10	120	2	11.94
+vacuo	chata	25	10	240	1	11.76
+vacuo	chata	25	10	240	2	11.72
+vacuo	chata	25	20	0	1	10.88
+vacuo	chata	25	20	0	2	10.6
+vacuo	chata	25	20	30	1	12.35
+vacuo	chata	25	20	30	2	12.22
+vacuo	chata	25	20	60	1	11.65
+vacuo	chata	25	20	60	2	11.46
+vacuo	chata	25	20	120	1	12.68
+vacuo	chata	25	20	120	2	12.8
+vacuo	chata	25	20	240	1	12.23
+vacuo	chata	25	20	240	2	12.18
+vacuo	redonda	10	0	0	1	12.86
+vacuo	redonda	10	0	0	2	12.62
+vacuo	redonda	10	0	30	1	12
+vacuo	redonda	10	0	30	2	11.73
+vacuo	redonda	10	0	60	1	11.58
+vacuo	redonda	10	0	60	2	11.63
+vacuo	redonda	10	0	120	1	11.57
+vacuo	redonda	10	0	120	2	11.29
+vacuo	redonda	10	0	240	1	11.78
+vacuo	redonda	10	0	240	2	11.72
+vacuo	redonda	10	10	0	1	10.01
+vacuo	redonda	10	10	0	2	10.21
+vacuo	redonda	10	10	30	1	11.93
+vacuo	redonda	10	10	30	2	12.06
+vacuo	redonda	10	10	60	1	11.37
+vacuo	redonda	10	10	60	2	11.39
+vacuo	redonda	10	10	120	1	11.26
+vacuo	redonda	10	10	120	2	11.4
+vacuo	redonda	10	10	240	1	11.67
+vacuo	redonda	10	10	240	2	11.63
+vacuo	redonda	10	20	0	1	10.98
+vacuo	redonda	10	20	0	2	11.25
+vacuo	redonda	10	20	30	1	11.79
+vacuo	redonda	10	20	30	2	11.58
+vacuo	redonda	10	20	60	1	11.51
+vacuo	redonda	10	20	60	2	11.39
+vacuo	redonda	10	20	120	1	10.91
+vacuo	redonda	10	20	120	2	11.21
+vacuo	redonda	10	20	240	1	11.93
+vacuo	redonda	10	20	240	2	11.87
+vacuo	redonda	25	0	0	1	12.86
+vacuo	redonda	25	0	0	2	12.62
+vacuo	redonda	25	0	30	1	10.94
+vacuo	redonda	25	0	30	2	10.98
+vacuo	redonda	25	0	60	1	11.32
+vacuo	redonda	25	0	60	2	11.21
+vacuo	redonda	25	0	120	1	11.04
+vacuo	redonda	25	0	120	2	11
+vacuo	redonda	25	0	240	1	11.42
+vacuo	redonda	25	0	240	2	11.63
+vacuo	redonda	25	10	0	1	10.01
+vacuo	redonda	25	10	0	2	10.21
+vacuo	redonda	25	10	30	1	11.75
+vacuo	redonda	25	10	30	2	11.69
+vacuo	redonda	25	10	60	1	10.92
+vacuo	redonda	25	10	60	2	11.26
+vacuo	redonda	25	10	120	1	10.87
+vacuo	redonda	25	10	120	2	10.79
+vacuo	redonda	25	10	240	1	12.81
+vacuo	redonda	25	10	240	2	12.6
+vacuo	redonda	25	20	0	1	10.98
+vacuo	redonda	25	20	0	2	11.25
+vacuo	redonda	25	20	30	1	11.48
+vacuo	redonda	25	20	30	2	11.42
+vacuo	redonda	25	20	60	1	11.44
+vacuo	redonda	25	20	60	2	11.34
+vacuo	redonda	25	20	120	1	11.7
+vacuo	redonda	25	20	120	2	11.66
+vacuo	redonda	25	20	240	1	12.19
+vacuo	redonda	25	20	240	2	12.24

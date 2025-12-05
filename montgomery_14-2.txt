@@ -1,0 +1,25 @@
+# Montgomery, D. C., & Runger, G. C. (2006). Applied Statistics and Probability for Engineers (p. 784). Wiley.
+# Montgomery, D. C., & Runger, G. C. (2009). Estatística aplicada e probabilidade para engenheiros. LTC. (tradução)
+# Exercício 14.2
+# Experimento para verificar a qualidade (qualidade) do acabamento de uma superfície de peças metálicas
+# em função do tipo de tinta (tinta) e tempo de secagem (tempo, minutos).
+tinta	tempo	qualidade
+1	20	74
+1	20	64
+1	20	50
+2	20	92
+2	20	86
+2	20	68
+1	25	73
+1	25	61
+1	25	44
+2	25	98
+2	25	73
+2	25	88
+1	30	78
+1	30	85
+1	30	92
+2	30	66
+2	30	45
+2	30	85
+

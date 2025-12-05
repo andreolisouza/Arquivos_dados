@@ -1,0 +1,42 @@
+# Pimentel Gomes, F. (2009). Curso de estatística experimental (15th ed., p. 451). FEALQ.
+# Pimentel Gomes, página 99, seção 6.3
+# Experimento em QTL manejo de adubação mineral/verde/calagem em cana-de-açúcar
+# avaliando a produção (kg/parcela).
+linhas	colunas	adubacao	producao
+1	1	com calcario/com crotalaria/sem adubo	79.8
+1	2	com calcario/com crotalaria/com adubo	83.73
+1	3	com calcario/sem crotalaria	73.79
+1	4	sem calcario/com crotalaria/sem adubo	77.93
+1	5	sem calcario/sem crotalaria	73.5
+1	6	sem calcario/com crotalaria/com adubo	64.47
+2	1	com calcario/sem crotalaria	59.52
+2	2	sem calcario/sem crotalaria	69.85
+2	3	com calcario/com crotalaria/com adubo	53.6
+2	4	com calcario/com crotalaria/sem adubo	87.24
+2	5	sem calcario/com crotalaria/com adubo	81.25
+2	6	sem calcario/com crotalaria/sem adubo	81.31
+3	1	sem calcario/com crotalaria/com adubo	78.65
+3	2	sem calcario/com crotalaria/sem adubo	74.05
+3	3	com calcario/com crotalaria/sem adubo	72.17
+3	4	sem calcario/sem crotalaria	67.54
+3	5	com calcario/sem crotalaria	65.7
+3	6	com calcario/com crotalaria/com adubo	85.61
+4	1	com calcario/com crotalaria/com adubo	72.91
+4	2	com calcario/sem crotalaria	77.25
+4	3	sem calcario/com crotalaria/sem adubo	84.12
+4	4	sem calcario/com crotalaria/com adubo	89.87
+4	5	com calcario/com crotalaria/sem adubo	76.57
+4	6	sem calcario/sem crotalaria	74.55
+5	1	sem calcario/sem crotalaria	76.93
+5	2	com calcario/com crotalaria/sem adubo	84.46
+5	3	sem calcario/com crotalaria/com adubo	86.99
+5	4	com calcario/com crotalaria/com adubo	82.99
+5	5	sem calcario/com crotalaria/sem adubo	77.67
+5	6	com calcario/sem crotalaria	63.81
+6	1	sem calcario/com crotalaria/sem adubo	85.66
+6	2	sem calcario/com crotalaria/com adubo	81.1
+6	3	sem calcario/sem crotalaria	69.41
+6	4	com calcario/sem crotalaria	72.16
+6	5	com calcario/com crotalaria/com adubo	81.05
+6	6	com calcario/com crotalaria/sem adubo	89.91
+

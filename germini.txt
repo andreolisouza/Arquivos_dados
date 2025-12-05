@@ -1,0 +1,45 @@
+## Dados de responsabilidade Gasiela B. Tognon
+## (http://lattes.cnpq.br/2911532137112895), programa de pós graduação
+## em produção vegetal, UFPR, 2014.  Esse experimento avaliou o efeito
+## de manejos da temperatura sobre a germinação de sementes de duas
+## espécies {Baccharis tridentata, Baccharis milleflora}. Os níveis de
+## temperatura foram {12/12h 20/30°C, 24h 20°C, 24h 25°C, 24h
+## 30°C}. Foram considerados 4 repetições por nível de temperatura com
+## 50 sementes em cada. Ao final do período de avaliação registrou-se a
+## germinação final (número de sementes germinadas em 50) e o índice de
+## velocidade de germinação. Cada espécie teve um experimento separado
+## em DIC.
+##
+especie	temper	rept	ngerm50	ivg
+B. tridentata	20/30	1	18	1.2131
+B. tridentata	20/30	2	26	2.2862
+B. tridentata	20/30	3	18	1.6776
+B. tridentata	20/30	4	24	2.1862
+B. tridentata	20	1	24	1.7486
+B. tridentata	20	2	33	2.2766
+B. tridentata	20	3	31	2.4024
+B. tridentata	20	4	30	2.2458
+B. tridentata	25	1	34	3.3934
+B. tridentata	25	2	33	2.9482
+B. tridentata	25	3	29	2.4876
+B. tridentata	25	4	22	2.0610
+B. tridentata	30	1	31	2.8630
+B. tridentata	30	2	30	2.5180
+B. tridentata	30	3	29	2.6683
+B. tridentata	30	4	32	2.8479
+B. milleflora	20/30	1	18	0.7989
+B. milleflora	20/30	2	9	0.3671
+B. milleflora	20/30	3	20	1.0710
+B. milleflora	20/30	4	20	1.0939
+B. milleflora	20	1	0	0.0000
+B. milleflora	20	2	0	0.0000
+B. milleflora	20	3	0	0.0000
+B. milleflora	20	4	1	0.0833
+B. milleflora	25	1	0	0.0000
+B. milleflora	25	2	0	0.0000
+B. milleflora	25	3	0	0.0000
+B. milleflora	25	4	0	0.0000
+B. milleflora	30	1	2	0.0678
+B. milleflora	30	2	0	0.0000
+B. milleflora	30	3	0	0.0000
+B. milleflora	30	4	4	0.3125

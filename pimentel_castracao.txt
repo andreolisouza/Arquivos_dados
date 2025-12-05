@@ -1,0 +1,23 @@
+# Pimentel Gomes, F. (2009). Curso de estatística experimental (15th ed., p. 451). FEALQ.
+# Pimentel Gomes, página 110, seção 6.6
+# Experimento em QTL sobre manejo de castração de suínos (em dias de idade) sobre o ganho
+# de peso (kg) aos final de 252 dias de vida. Leitegada controla grupo
+# contemporâneo e classe de peso o peso inicial dos animais.
+leitegada	classepeso	castracao	ganhopeso
+1	1	56	93
+2	1	testemunha	115.4
+3	1	7	102.1
+4	1	21	117.6
+1	2	testemunha	108.6
+2	2	21	96.5
+3	2	56	94.9
+4	2	7	114.1
+1	3	7	108.9
+2	3	56	77.9
+3	3	21	116.9
+4	3	testemunha	118.7
+1	4	21	102
+2	4	7	100.2
+3	4	testemunha	96
+4	4	56	97.6
+

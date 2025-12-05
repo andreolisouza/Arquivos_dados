@@ -1,0 +1,24 @@
+# Montgomery, D. C., & Runger, G. C. (2006). Applied Statistics and Probability for Engineers (p. 784). Wiley.
+# Montgomery, D. C., & Runger, G. C. (2009). Estatística aplicada e probabilidade para engenheiros. LTC. (tradução)
+# Exercício 14.4
+# Experimento para verificar se a temperatura de queima e posição da fornalha afetam a densidade de um ânodo de carbono.
+posicao	temperatura	densidade
+1	800	570
+1	800	565
+1	800	583
+2	800	528
+2	800	547
+2	800	521
+1	825	1063
+1	825	1080
+1	825	1043
+2	825	988
+2	825	1026
+2	825	1004
+1	850	565
+1	850	510
+1	850	590
+2	850	526
+2	850	538
+2	850	532
+

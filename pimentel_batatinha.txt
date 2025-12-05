@@ -1,0 +1,37 @@
+# Pimentel Gomes, F. (2009). Curso de estatística experimental (15th ed., p. 451). FEALQ.
+# Pimentel Gomes, página 76, seção 5.2
+# Experimento em DBC de competição de variedades de batatinha em relação à produção (t/ha).
+bloco	variedade	producao
+I	Kennebec	9.2
+I	Huinkul	21.1
+I	S. Rafalela	22.6
+I	Buena Vista	15.4
+I	B 25-50 E	12.7
+I	B 1-52	20
+I	B 116-51	23.1
+I	B 72-53 A	18
+II	Kennebec	13.4
+II	Huinkul	27
+II	S. Rafalela	29.9
+II	Buena Vista	11.9
+II	B 25-50 E	18
+II	B 1-52	21.1
+II	B 116-51	24.2
+II	B 72-53 A	24.6
+III	Kennebec	11
+III	Huinkul	26.4
+III	S. Rafalela	24.2
+III	Buena Vista	10.1
+III	B 25-50 E	18.2
+III	B 1-52	20
+III	B 116-51	26.4
+III	B 72-53 A	24
+IV	Kennebec	9.2
+IV	Huinkul	25.7
+IV	S. Rafalela	25.1
+IV	Buena Vista	12.3
+IV	B 25-50 E	17.1
+IV	B 1-52	28
+IV	B 116-51	16.3
+IV	B 72-53 A	24.6
+

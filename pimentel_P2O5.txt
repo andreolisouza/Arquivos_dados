@@ -1,4 +1,4 @@
-## Experimento para avaliar o efeito da adubação fosfatada em
+## Experimento para avaliar o efeito da adubção fosfatada em
 ## milho. Delineamento com 4 blocos e cinco níveis de P2O5
 ## (kg/ha). Mediu-se a produção em ton/ha.
 ##

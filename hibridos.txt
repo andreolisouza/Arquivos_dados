@@ -1,0 +1,46 @@
+#------------------------------------------------------------------------------------------
+# dados dos valores médios para variáveis observadas durante a avaliação de hibridos de
+# milho em um programa de melhoramento. Dados disponíveis no livro
+# Estatística para as ciências agrárias e biológicas co noções de experimentação
+# (Dalton F Andrade & Paulo J Ogliari, 2010, página 62)
+# hibrido: identifica o hibrido;
+# rendimento: rendimento de grãos (kg/ha);
+# ciclo: (dias)
+# altura: altura da planta (cm);
+# espiga: altura da espiga (cm);
+# grao: tipo de grão;
+# resistencia: resistência à ferrugem;
+#------------------------------------------------------------------------------------------
+hibrido	rendimento	ciclo	altura	espiga	grao	resistencia
+1	6388	65	242	103	dentado	r
+2	6166	65	258	134	semidentado	r
+3	6047	65	240	104	semidentado	s
+4	5889	66	243	108	semidentado	s
+5	5823	69	257	128	dentado	ms
+6	5513	68	241	108	semidentado	s
+7	5202	64	235	108	dentado	r
+8	5172	68	240	103	dentado	s
+9	5166	69	253	123	dentado	ms
+10	4975	70	250	117	semidentado	ms
+11	4778	70	242	114	dentado	mr
+12	4680	66	245	111	semiduro	ms
+13	4660	69	239	110	semiduro	mr
+14	5403	73	264	138	dentado	ms
+15	5117	76	282	149	dentado	mr
+16	5063	72	274	151	dentado	r
+17	4993	71	279	134	semidentado	r
+18	4980	72	274	140	dentado	ms
+19	4770	73	244	140	dentado	r
+20	4685	71	265	139	semiduro	mr
+21	4614	73	248	110	semidentado	r
+22	4552	73	265	128	semidentado	r
+23	3973	74	261	124	semidentado	mr
+24	4550	71	259	129	semiduro	s
+25	5056	64	252	104	semiduro	mr
+26	4500	70	271	109	dentado	ms
+27	4760	68	243	137	semiduro	r
+28	5110	66	252	141	semidentado	ms
+29	4960	70	262	120	dentado	ms
+30	4769	73	260	118	dentado	r
+31	4849	74	250	119	semidentado	s
+32	5230	71	255	138	semiduro	s

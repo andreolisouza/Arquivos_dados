@@ -1,0 +1,33 @@
+# Pimentel Gomes, F. (2009). Curso de estatística experimental (15th ed., p. 451). FEALQ.
+# Pimentel Gomes, página 90, seção 5.8
+# Experimento em DBC para avaliar e produção de cana-de-açúcar (cana-planta) em função da variedade.
+bloco	variedade	producao
+i	Co 413	88.7
+i	Co 419	123.9
+i	CB 41-76	115.4
+i	CB 36-24	122.2
+i	CB 40-19	137.5
+i	CB 41-70	111.7
+i	CB 41-60	137.9
+ii	Co 413	109.7
+ii	Co 419	151.7
+ii	CB 41-76	116.4
+ii	CB 36-24	141.6
+ii	CB 40-19	126.7
+ii	CB 41-70	159
+ii	CB 41-60	148.2
+iii	Co 413	90.7
+iii	Co 419	131.9
+iii	CB 41-76	152.7
+iii	CB 36-24	165.7
+iii	CB 40-19	162
+iii	CB 41-70	120
+iii	CB 41-60	150
+iv	Co 413	99.7
+iv	Co 419	114.5
+iv	CB 41-76	142.5
+iv	CB 36-24	162.7
+iv	CB 40-19	114.5
+iv	CB 41-70	107.5
+iv	CB 41-60	122.5
+

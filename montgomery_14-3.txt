@@ -1,0 +1,43 @@
+# Montgomery, D. C., & Runger, G. C. (2006). Applied Statistics and Probability for Engineers (p. 784). Wiley.
+# Montgomery, D. C., & Runger, G. C. (2009). Estatística aplicada e probabilidade para engenheiros. LTC. (tradução)
+# Exercício 14.3
+# Experimento para avaliar o tempo de vida útil (vida, horas) de baterias feitas com tipos
+# de material (material) funcionando em diferentes temperaturas (temperatura).
+material	temperatura	vida
+1	baixa	130
+1	baixa	74
+2	baixa	150
+2	baixa	159
+3	baixa	138
+3	baixa	168
+1	baixa	155
+1	baixa	180
+2	baixa	188
+2	baixa	126
+3	baixa	110
+3	baixa	160
+1	media	34
+1	media	80
+2	media	136
+2	media	106
+3	media	174
+3	media	150
+1	media	40
+1	media	75
+2	media	122
+2	media	115
+3	media	120
+3	media	139
+1	alta	20
+1	alta	82
+2	alta	25
+2	alta	58
+3	alta	96
+3	alta	82
+1	alta	70
+1	alta	58
+2	alta	70
+2	alta	45
+3	alta	104
+3	alta	60
+

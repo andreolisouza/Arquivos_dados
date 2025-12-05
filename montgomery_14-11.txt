@@ -1,0 +1,43 @@
+# Montgomery, D. C., & Runger, G. C. (2006). Applied Statistics and Probability for Engineers (p. 784). Wiley.
+# Montgomery, D. C., & Runger, G. C. (2009). Estatística aplicada e probabilidade para engenheiros. LTC. (tradução)
+# Exercício 14.11
+# Concentração de madeira de lei na polpa virgem, dificuldade de dreanagem e tempo de cozimento
+# da polpa estão sendo avaliados quando ao efeito sobre à resistência do papel.
+concentracao	drenagem	tempo	resistencia
+10	350	1.5	96.6
+10	350	1.5	96
+15	350	1.5	98.5
+15	350	1.5	97.2
+20	350	1.5	97.5
+20	350	1.5	96.6
+10	500	1.5	97.7
+10	500	1.5	96
+15	500	1.5	96
+15	500	1.5	96.9
+20	500	1.5	95.6
+20	500	1.5	96.2
+10	650	1.5	99.4
+10	650	1.5	99.8
+15	650	1.5	98.4
+15	650	1.5	97.6
+20	650	1.5	97.4
+20	650	1.5	98.1
+10	350	2	98.4
+10	350	2	98.6
+15	350	2	97.5
+15	350	2	98.1
+20	350	2	97.6
+20	350	2	98.4
+10	350	2	99.6
+10	500	2	100.4
+15	500	2	98.7
+15	500	2	96
+20	500	2	97
+20	500	2	97.8
+10	500	2	100.6
+10	650	2	100.9
+15	650	2	99.6
+15	650	2	99
+20	650	2	98.5
+20	650	2	99.8
+

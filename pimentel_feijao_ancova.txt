@@ -1,0 +1,49 @@
+## Pimentel Gomes, F. (2009). Curso de estatística experimental (15th
+## ed., p. 451). FEALQ. Página 300, seção 16.2.
+##
+## Experimento em DBC avaliando a produção de feijão (g/parcela) em
+## função do inseticida usado para controle de pragas e com stand de
+## plantas inicial por parcela variável que deve ser usada em uma
+## análise de covariância.
+##
+bloco	inseticida	standini	producao
+1	testemunha	9	74
+2	testemunha	9	51
+3	testemunha	8	95
+4	testemunha	9	62
+5	testemunha	9	60
+6	testemunha	9	47
+7	testemunha	6	14
+8	testemunha	8	19
+1	disyston	7	58
+2	disyston	6	67
+3	disyston	5	40
+4	disyston	8	58
+5	disyston	6	29
+6	disyston	8	64
+7	disyston	9	55
+8	disyston	8	47
+1	ekatin	9	118
+2	ekatin	9	48
+3	ekatin	9	49
+4	ekatin	9	64
+5	ekatin	8	67
+6	ekatin	8	51
+7	ekatin	8	15
+8	ekatin	9	29
+1	keltane	6	41
+2	keltane	9	38
+3	keltane	8	77
+4	keltane	9	92
+5	keltane	7	57
+6	keltane	7	77
+7	keltane	8	59
+8	keltane	8	31
+1	diazinon	8	95
+2	diazinon	8	41
+3	diazinon	9	39
+4	diazinon	9	114
+5	diazinon	6	35
+6	diazinon	8	49
+7	diazinon	9	39
+8	diazinon	9	100

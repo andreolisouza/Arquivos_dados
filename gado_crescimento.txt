@@ -1,0 +1,691 @@
+## Experimento conduzido por Fabio Raphael Pascoti Bruhn
+## (http://lattes.cnpq.br/6027763770110766), acadêmico de Mestrado em
+## Ciências Veterinárias  da UFLA (2010-2012).
+##
+## Os dados são da avaliação do ganho de peso de vacas da raça holandesa
+## holandesa dividas em grupos para cada um dos 5 tratamentos de endo e
+## exo parasitas. O experimento foi repetido 3 vezes, sendo 2 nas
+## estações de seca e 1 uma na estação das chuvas. As vacas avaliadas
+## não são as mesmas quando muda a estação. Elas pesadas em intervalos
+## aproximados de 30 dias após o início da estação.  Os tratamentos
+## foram: ivermectina 1% (genérico) (T1); sulfóxido de albendazol 10%
+## (T2); abamectina 1% (T3); doramectina 1% (T4) e ivermectina 1%
+## (referência) (T5). Os diferentes tratamentos foram escolhidos por
+## serem comumente aplicados por pecuaristas na região. Quanto às
+## ivermectinas (uma "genérica" e outra "referência"), optou-se por
+## duas, por possuírem preços de mercado completamente diferentes
+## (R$0,062 e R$0,292/mL, respectivamente). Aplicou-se 1 mL do produto
+## para cada 50 kg de peso vivo, para todos os tratamentos, exceto no
+## tratamento 2, que foi 1 mL para cada 40 kg de peso vivo. Ocorreram
+## duas aplicações dos medicamentos durante o período experimental,
+## sendo uma no primeiro dia e a outra 90 dias após. Dentro de cada
+## estação trata-se de um experimento inteiramente casualizado com
+## unidades experimentais (vacas) avaliadas ao longo do tempo
+## (longitudinal/medidas repetidas).
+##
+vaca	peso	helmintico	mes	dias	estacao
+656	200	ivermectina genérico 1%	5	0	seca1
+660	190.9	ivermectina genérico 1%	5	0	seca1
+666	150	ivermectina genérico 1%	5	0	seca1
+675	134	ivermectina genérico 1%	5	0	seca1
+688	128	ivermectina genérico 1%	5	0	seca1
+697	98	ivermectina genérico 1%	5	0	seca1
+681	118.8	ivermectina genérico 1%	5	0	seca1
+656	229.2	ivermectina genérico 1%	6	32	seca1
+660	222.8	ivermectina genérico 1%	6	32	seca1
+666	180	ivermectina genérico 1%	6	32	seca1
+675	150	ivermectina genérico 1%	6	32	seca1
+688	145.2	ivermectina genérico 1%	6	32	seca1
+697	107.4	ivermectina genérico 1%	6	32	seca1
+681	134.2	ivermectina genérico 1%	6	32	seca1
+656	260.6	ivermectina genérico 1%	7	63	seca1
+660	254.2	ivermectina genérico 1%	7	63	seca1
+666	207.2	ivermectina genérico 1%	7	63	seca1
+675	177.2	ivermectina genérico 1%	7	63	seca1
+697	128.4	ivermectina genérico 1%	7	63	seca1
+681	167.2	ivermectina genérico 1%	7	63	seca1
+656	274	ivermectina genérico 1%	8	94	seca1
+660	276.2	ivermectina genérico 1%	8	94	seca1
+666	228	ivermectina genérico 1%	8	94	seca1
+675	184	ivermectina genérico 1%	8	94	seca1
+688	186.2	ivermectina genérico 1%	8	94	seca1
+697	150	ivermectina genérico 1%	8	94	seca1
+681	186	ivermectina genérico 1%	8	94	seca1
+656	294.4	ivermectina genérico 1%	9	123	seca1
+660	298.4	ivermectina genérico 1%	9	123	seca1
+666	252.1	ivermectina genérico 1%	9	123	seca1
+675	220.8	ivermectina genérico 1%	9	123	seca1
+688	220	ivermectina genérico 1%	9	123	seca1
+697	177	ivermectina genérico 1%	9	123	seca1
+681	211.4	ivermectina genérico 1%	9	123	seca1
+657	181.7	sulfóxido de albendazol 10%	5	0	seca1
+662	157	sulfóxido de albendazol 10%	5	0	seca1
+671	153	sulfóxido de albendazol 10%	5	0	seca1
+680	138.6	sulfóxido de albendazol 10%	5	0	seca1
+687	131	sulfóxido de albendazol 10%	5	0	seca1
+683	126.4	sulfóxido de albendazol 10%	5	0	seca1
+682	127	sulfóxido de albendazol 10%	5	0	seca1
+657	200.4	sulfóxido de albendazol 10%	6	32	seca1
+662	188.2	sulfóxido de albendazol 10%	6	32	seca1
+671	180.7	sulfóxido de albendazol 10%	6	32	seca1
+680	146.4	sulfóxido de albendazol 10%	6	32	seca1
+687	146.2	sulfóxido de albendazol 10%	6	32	seca1
+683	143.8	sulfóxido de albendazol 10%	6	32	seca1
+682	144.2	sulfóxido de albendazol 10%	6	32	seca1
+657	224	sulfóxido de albendazol 10%	7	63	seca1
+662	222.8	sulfóxido de albendazol 10%	7	63	seca1
+671	208.4	sulfóxido de albendazol 10%	7	63	seca1
+680	177	sulfóxido de albendazol 10%	7	63	seca1
+687	166.6	sulfóxido de albendazol 10%	7	63	seca1
+683	175.6	sulfóxido de albendazol 10%	7	63	seca1
+682	167.4	sulfóxido de albendazol 10%	7	63	seca1
+657	259.6	sulfóxido de albendazol 10%	8	94	seca1
+662	256	sulfóxido de albendazol 10%	8	94	seca1
+671	235.6	sulfóxido de albendazol 10%	8	94	seca1
+680	190.4	sulfóxido de albendazol 10%	8	94	seca1
+687	190	sulfóxido de albendazol 10%	8	94	seca1
+683	200	sulfóxido de albendazol 10%	8	94	seca1
+682	194	sulfóxido de albendazol 10%	8	94	seca1
+657	286.6	sulfóxido de albendazol 10%	9	123	seca1
+662	278.2	sulfóxido de albendazol 10%	9	123	seca1
+671	261	sulfóxido de albendazol 10%	9	123	seca1
+680	200	sulfóxido de albendazol 10%	9	123	seca1
+687	212.4	sulfóxido de albendazol 10%	9	123	seca1
+683	234	sulfóxido de albendazol 10%	9	123	seca1
+682	211.2	sulfóxido de albendazol 10%	9	123	seca1
+663	173	abamectina 1%	5	0	seca1
+674	129.2	abamectina 1%	5	0	seca1
+677	121.8	abamectina 1%	5	0	seca1
+678	127.7	abamectina 1%	5	0	seca1
+689	107	abamectina 1%	5	0	seca1
+694	119.2	abamectina 1%	5	0	seca1
+696	104.8	abamectina 1%	5	0	seca1
+663	195.4	abamectina 1%	6	32	seca1
+674	155	abamectina 1%	6	32	seca1
+677	145.2	abamectina 1%	6	32	seca1
+678	149.8	abamectina 1%	6	32	seca1
+689	117	abamectina 1%	6	32	seca1
+694	139	abamectina 1%	6	32	seca1
+696	121	abamectina 1%	6	32	seca1
+663	238	abamectina 1%	7	63	seca1
+674	175.2	abamectina 1%	7	63	seca1
+677	177	abamectina 1%	7	63	seca1
+678	183.4	abamectina 1%	7	63	seca1
+689	132.6	abamectina 1%	7	63	seca1
+694	160.4	abamectina 1%	7	63	seca1
+696	141.2	abamectina 1%	7	63	seca1
+663	269.6	abamectina 1%	8	94	seca1
+674	201	abamectina 1%	8	94	seca1
+677	177.4	abamectina 1%	8	94	seca1
+678	207	abamectina 1%	8	94	seca1
+689	138.2	abamectina 1%	8	94	seca1
+694	181	abamectina 1%	8	94	seca1
+696	148.2	abamectina 1%	8	94	seca1
+663	293	abamectina 1%	9	123	seca1
+674	229.6	abamectina 1%	9	123	seca1
+677	205.4	abamectina 1%	9	123	seca1
+678	238.6	abamectina 1%	9	123	seca1
+689	160.4	abamectina 1%	9	123	seca1
+694	210.6	abamectina 1%	9	123	seca1
+696	164.4	abamectina 1%	9	123	seca1
+655	219.9	doramectina 1%	5	0	seca1
+664	146.9	doramectina 1%	5	0	seca1
+668	130	doramectina 1%	5	0	seca1
+676	163	doramectina 1%	5	0	seca1
+686	116.9	doramectina 1%	5	0	seca1
+691	108.4	doramectina 1%	5	0	seca1
+684	117.8	doramectina 1%	5	0	seca1
+655	244	doramectina 1%	6	32	seca1
+664	177	doramectina 1%	6	32	seca1
+668	163	doramectina 1%	6	32	seca1
+676	188.4	doramectina 1%	6	32	seca1
+686	123	doramectina 1%	6	32	seca1
+691	125	doramectina 1%	6	32	seca1
+684	130	doramectina 1%	6	32	seca1
+655	273.2	doramectina 1%	7	63	seca1
+664	200.6	doramectina 1%	7	63	seca1
+668	189.6	doramectina 1%	7	63	seca1
+676	218.4	doramectina 1%	7	63	seca1
+686	129.2	doramectina 1%	7	63	seca1
+691	137.2	doramectina 1%	7	63	seca1
+684	140.6	doramectina 1%	7	63	seca1
+655	305	doramectina 1%	8	94	seca1
+664	238	doramectina 1%	8	94	seca1
+668	206	doramectina 1%	8	94	seca1
+676	247	doramectina 1%	8	94	seca1
+686	147.2	doramectina 1%	8	94	seca1
+691	160	doramectina 1%	8	94	seca1
+684	172.4	doramectina 1%	8	94	seca1
+655	320.6	doramectina 1%	9	123	seca1
+664	262.4	doramectina 1%	9	123	seca1
+668	234.6	doramectina 1%	9	123	seca1
+676	283.6	doramectina 1%	9	123	seca1
+686	170.6	doramectina 1%	9	123	seca1
+691	194.6	doramectina 1%	9	123	seca1
+684	191.6	doramectina 1%	9	123	seca1
+658	179.15	ivermectina 1%	5	0	seca1
+659	156.9	ivermectina 1%	5	0	seca1
+670	162	ivermectina 1%	5	0	seca1
+673	120	ivermectina 1%	5	0	seca1
+679	139.7	ivermectina 1%	5	0	seca1
+690	117.2	ivermectina 1%	5	0	seca1
+693	98.4	ivermectina 1%	5	0	seca1
+658	215.4	ivermectina 1%	6	32	seca1
+659	196	ivermectina 1%	6	32	seca1
+670	193	ivermectina 1%	6	32	seca1
+673	140.6	ivermectina 1%	6	32	seca1
+679	165	ivermectina 1%	6	32	seca1
+690	140	ivermectina 1%	6	32	seca1
+693	129.4	ivermectina 1%	6	32	seca1
+658	246.4	ivermectina 1%	7	63	seca1
+659	213	ivermectina 1%	7	63	seca1
+670	215	ivermectina 1%	7	63	seca1
+673	170	ivermectina 1%	7	63	seca1
+679	190.3	ivermectina 1%	7	63	seca1
+690	167	ivermectina 1%	7	63	seca1
+693	158.6	ivermectina 1%	7	63	seca1
+658	291.4	ivermectina 1%	8	94	seca1
+659	241.4	ivermectina 1%	8	94	seca1
+670	224.2	ivermectina 1%	8	94	seca1
+673	202.6	ivermectina 1%	8	94	seca1
+679	216	ivermectina 1%	8	94	seca1
+690	193.4	ivermectina 1%	8	94	seca1
+693	184	ivermectina 1%	8	94	seca1
+658	319.6	ivermectina 1%	9	123	seca1
+659	265.8	ivermectina 1%	9	123	seca1
+670	235	ivermectina 1%	9	123	seca1
+673	225	ivermectina 1%	9	123	seca1
+679	242.6	ivermectina 1%	9	123	seca1
+690	236	ivermectina 1%	9	123	seca1
+693	212	ivermectina 1%	9	123	seca1
+656	280	ivermectina genérico 1%	10	0	chuva
+660	290	ivermectina genérico 1%	10	0	chuva
+666	256.6	ivermectina genérico 1%	10	0	chuva
+675	226	ivermectina genérico 1%	10	0	chuva
+688	231.2	ivermectina genérico 1%	10	0	chuva
+697	220	ivermectina genérico 1%	10	0	chuva
+681	241.2	ivermectina genérico 1%	10	0	chuva
+656	278.2	ivermectina genérico 1%	11	26	chuva
+660	303.2	ivermectina genérico 1%	11	26	chuva
+666	276	ivermectina genérico 1%	11	26	chuva
+675	251.2	ivermectina genérico 1%	11	26	chuva
+688	253	ivermectina genérico 1%	11	26	chuva
+697	221	ivermectina genérico 1%	11	26	chuva
+681	236	ivermectina genérico 1%	11	26	chuva
+656	314	ivermectina genérico 1%	12	53	chuva
+660	310.4	ivermectina genérico 1%	12	53	chuva
+666	285.4	ivermectina genérico 1%	12	53	chuva
+675	246	ivermectina genérico 1%	12	53	chuva
+688	278	ivermectina genérico 1%	12	53	chuva
+697	232.6	ivermectina genérico 1%	12	53	chuva
+681	233.1	ivermectina genérico 1%	12	53	chuva
+656	309.4	ivermectina genérico 1%	1	92	chuva
+660	300	ivermectina genérico 1%	1	92	chuva
+666	272.6	ivermectina genérico 1%	1	92	chuva
+675	240.4	ivermectina genérico 1%	1	92	chuva
+688	289	ivermectina genérico 1%	1	92	chuva
+697	230.2	ivermectina genérico 1%	1	92	chuva
+681	262	ivermectina genérico 1%	1	92	chuva
+656	327	ivermectina genérico 1%	2	126	chuva
+660	294	ivermectina genérico 1%	2	126	chuva
+666	281.2	ivermectina genérico 1%	2	126	chuva
+675	243	ivermectina genérico 1%	2	126	chuva
+688	310.6	ivermectina genérico 1%	2	126	chuva
+697	244.8	ivermectina genérico 1%	2	126	chuva
+681	269	ivermectina genérico 1%	2	126	chuva
+656	333.2	ivermectina genérico 1%	3	145	chuva
+660	303.6	ivermectina genérico 1%	3	145	chuva
+666	290.2	ivermectina genérico 1%	3	145	chuva
+675	251.6	ivermectina genérico 1%	3	145	chuva
+688	326	ivermectina genérico 1%	3	145	chuva
+697	258	ivermectina genérico 1%	3	145	chuva
+681	280	ivermectina genérico 1%	3	145	chuva
+656	351.4	ivermectina genérico 1%	5	198	chuva
+660	328	ivermectina genérico 1%	5	198	chuva
+666	325	ivermectina genérico 1%	5	198	chuva
+675	258.8	ivermectina genérico 1%	5	198	chuva
+688	360.2	ivermectina genérico 1%	5	198	chuva
+697	278	ivermectina genérico 1%	5	198	chuva
+681	316.6	ivermectina genérico 1%	5	198	chuva
+656	374	ivermectina genérico 1%	6	227	chuva
+660	331.2	ivermectina genérico 1%	6	227	chuva
+666	322.6	ivermectina genérico 1%	6	227	chuva
+688	366.2	ivermectina genérico 1%	6	227	chuva
+697	281.8	ivermectina genérico 1%	6	227	chuva
+681	332.8	ivermectina genérico 1%	6	227	chuva
+657	274	sulfóxido de albendazol 10%	10	0	chuva
+662	293	sulfóxido de albendazol 10%	10	0	chuva
+671	255.8	sulfóxido de albendazol 10%	10	0	chuva
+680	202	sulfóxido de albendazol 10%	10	0	chuva
+687	223.2	sulfóxido de albendazol 10%	10	0	chuva
+683	247.6	sulfóxido de albendazol 10%	10	0	chuva
+682	221	sulfóxido de albendazol 10%	10	0	chuva
+657	275.2	sulfóxido de albendazol 10%	11	26	chuva
+662	291.2	sulfóxido de albendazol 10%	11	26	chuva
+671	254	sulfóxido de albendazol 10%	11	26	chuva
+680	234	sulfóxido de albendazol 10%	11	26	chuva
+687	231	sulfóxido de albendazol 10%	11	26	chuva
+683	242	sulfóxido de albendazol 10%	11	26	chuva
+682	231	sulfóxido de albendazol 10%	11	26	chuva
+657	270	sulfóxido de albendazol 10%	12	53	chuva
+662	312.4	sulfóxido de albendazol 10%	12	53	chuva
+671	254	sulfóxido de albendazol 10%	12	53	chuva
+680	251.8	sulfóxido de albendazol 10%	12	53	chuva
+687	243.6	sulfóxido de albendazol 10%	12	53	chuva
+683	242.6	sulfóxido de albendazol 10%	12	53	chuva
+682	234	sulfóxido de albendazol 10%	12	53	chuva
+657	275.2	sulfóxido de albendazol 10%	1	92	chuva
+662	313.4	sulfóxido de albendazol 10%	1	92	chuva
+671	257	sulfóxido de albendazol 10%	1	92	chuva
+680	231.4	sulfóxido de albendazol 10%	1	92	chuva
+687	248.6	sulfóxido de albendazol 10%	1	92	chuva
+683	250	sulfóxido de albendazol 10%	1	92	chuva
+682	244	sulfóxido de albendazol 10%	1	92	chuva
+657	290.8	sulfóxido de albendazol 10%	2	126	chuva
+662	335.3	sulfóxido de albendazol 10%	2	126	chuva
+671	254.6	sulfóxido de albendazol 10%	2	126	chuva
+680	224.2	sulfóxido de albendazol 10%	2	126	chuva
+687	257.2	sulfóxido de albendazol 10%	2	126	chuva
+683	252.2	sulfóxido de albendazol 10%	2	126	chuva
+682	251.6	sulfóxido de albendazol 10%	2	126	chuva
+657	310.2	sulfóxido de albendazol 10%	3	145	chuva
+662	351.2	sulfóxido de albendazol 10%	3	145	chuva
+671	277	sulfóxido de albendazol 10%	3	145	chuva
+680	244	sulfóxido de albendazol 10%	3	145	chuva
+687	280.2	sulfóxido de albendazol 10%	3	145	chuva
+683	232.8	sulfóxido de albendazol 10%	3	145	chuva
+682	260	sulfóxido de albendazol 10%	3	145	chuva
+657	352	sulfóxido de albendazol 10%	5	198	chuva
+662	382	sulfóxido de albendazol 10%	5	198	chuva
+671	283	sulfóxido de albendazol 10%	5	198	chuva
+680	251	sulfóxido de albendazol 10%	5	198	chuva
+687	301	sulfóxido de albendazol 10%	5	198	chuva
+683	265.2	sulfóxido de albendazol 10%	5	198	chuva
+682	290.6	sulfóxido de albendazol 10%	5	198	chuva
+657	354.6	sulfóxido de albendazol 10%	6	227	chuva
+662	368.6	sulfóxido de albendazol 10%	6	227	chuva
+671	276.4	sulfóxido de albendazol 10%	6	227	chuva
+680	248.2	sulfóxido de albendazol 10%	6	227	chuva
+687	312	sulfóxido de albendazol 10%	6	227	chuva
+683	260.4	sulfóxido de albendazol 10%	6	227	chuva
+682	309	sulfóxido de albendazol 10%	6	227	chuva
+663	317	abamectina 1%	10	0	chuva
+674	235.6	abamectina 1%	10	0	chuva
+677	207.8	abamectina 1%	10	0	chuva
+678	259.8	abamectina 1%	10	0	chuva
+689	199	abamectina 1%	10	0	chuva
+694	225.4	abamectina 1%	10	0	chuva
+696	200.6	abamectina 1%	10	0	chuva
+663	307.6	abamectina 1%	11	26	chuva
+674	242	abamectina 1%	11	26	chuva
+677	223.2	abamectina 1%	11	26	chuva
+678	264.2	abamectina 1%	11	26	chuva
+689	220.8	abamectina 1%	11	26	chuva
+694	239	abamectina 1%	11	26	chuva
+696	221	abamectina 1%	11	26	chuva
+663	308.2	abamectina 1%	12	53	chuva
+674	226	abamectina 1%	12	53	chuva
+677	247.4	abamectina 1%	12	53	chuva
+678	268	abamectina 1%	12	53	chuva
+689	228	abamectina 1%	12	53	chuva
+694	255.1	abamectina 1%	12	53	chuva
+696	213.1	abamectina 1%	12	53	chuva
+663	317.4	abamectina 1%	1	92	chuva
+674	253.6	abamectina 1%	1	92	chuva
+677	254	abamectina 1%	1	92	chuva
+678	292	abamectina 1%	1	92	chuva
+689	243.2	abamectina 1%	1	92	chuva
+694	253.8	abamectina 1%	1	92	chuva
+696	232.4	abamectina 1%	1	92	chuva
+663	327.6	abamectina 1%	2	126	chuva
+674	242.2	abamectina 1%	2	126	chuva
+677	245.8	abamectina 1%	2	126	chuva
+678	299	abamectina 1%	2	126	chuva
+689	256	abamectina 1%	2	126	chuva
+694	277.2	abamectina 1%	2	126	chuva
+696	236	abamectina 1%	2	126	chuva
+663	337.4	abamectina 1%	3	145	chuva
+674	268.2	abamectina 1%	3	145	chuva
+677	259.6	abamectina 1%	3	145	chuva
+678	313	abamectina 1%	3	145	chuva
+689	269.4	abamectina 1%	3	145	chuva
+694	303.2	abamectina 1%	3	145	chuva
+696	243	abamectina 1%	3	145	chuva
+663	377.6	abamectina 1%	5	198	chuva
+674	286.2	abamectina 1%	5	198	chuva
+677	313	abamectina 1%	5	198	chuva
+678	348	abamectina 1%	5	198	chuva
+689	296	abamectina 1%	5	198	chuva
+694	331.4	abamectina 1%	5	198	chuva
+696	239.2	abamectina 1%	5	198	chuva
+663	379	abamectina 1%	6	227	chuva
+674	291	abamectina 1%	6	227	chuva
+677	332.6	abamectina 1%	6	227	chuva
+678	341.6	abamectina 1%	6	227	chuva
+689	304.4	abamectina 1%	6	227	chuva
+694	338.2	abamectina 1%	6	227	chuva
+696	240	abamectina 1%	6	227	chuva
+655	298	doramectina 1%	10	0	chuva
+664	270	doramectina 1%	10	0	chuva
+668	245	doramectina 1%	10	0	chuva
+676	285.2	doramectina 1%	10	0	chuva
+686	187	doramectina 1%	10	0	chuva
+691	202	doramectina 1%	10	0	chuva
+684	206.4	doramectina 1%	10	0	chuva
+655	321	doramectina 1%	11	26	chuva
+664	290	doramectina 1%	11	26	chuva
+668	250	doramectina 1%	11	26	chuva
+676	262.2	doramectina 1%	11	26	chuva
+686	207	doramectina 1%	11	26	chuva
+691	204	doramectina 1%	11	26	chuva
+684	225	doramectina 1%	11	26	chuva
+655	345.6	doramectina 1%	12	53	chuva
+664	306	doramectina 1%	12	53	chuva
+668	269	doramectina 1%	12	53	chuva
+676	258.4	doramectina 1%	12	53	chuva
+686	213	doramectina 1%	12	53	chuva
+691	205.2	doramectina 1%	12	53	chuva
+684	242	doramectina 1%	12	53	chuva
+655	340	doramectina 1%	1	92	chuva
+664	311	doramectina 1%	1	92	chuva
+668	270.6	doramectina 1%	1	92	chuva
+676	288	doramectina 1%	1	92	chuva
+686	230	doramectina 1%	1	92	chuva
+691	227.6	doramectina 1%	1	92	chuva
+684	255.4	doramectina 1%	1	92	chuva
+655	340	doramectina 1%	2	126	chuva
+664	327.1	doramectina 1%	2	126	chuva
+668	288	doramectina 1%	2	126	chuva
+676	310	doramectina 1%	2	126	chuva
+686	288	doramectina 1%	2	126	chuva
+691	237	doramectina 1%	2	126	chuva
+684	300.6	doramectina 1%	2	126	chuva
+655	357	doramectina 1%	3	145	chuva
+664	337.2	doramectina 1%	3	145	chuva
+668	302.6	doramectina 1%	3	145	chuva
+676	327.2	doramectina 1%	3	145	chuva
+686	246	doramectina 1%	3	145	chuva
+691	242.6	doramectina 1%	3	145	chuva
+684	302	doramectina 1%	3	145	chuva
+655	402	doramectina 1%	5	198	chuva
+664	381	doramectina 1%	5	198	chuva
+668	322	doramectina 1%	5	198	chuva
+676	358.4	doramectina 1%	5	198	chuva
+686	274.4	doramectina 1%	5	198	chuva
+691	273.4	doramectina 1%	5	198	chuva
+684	355	doramectina 1%	5	198	chuva
+655	391	doramectina 1%	6	227	chuva
+664	383	doramectina 1%	6	227	chuva
+668	337	doramectina 1%	6	227	chuva
+676	374	doramectina 1%	6	227	chuva
+686	286	doramectina 1%	6	227	chuva
+691	283.2	doramectina 1%	6	227	chuva
+684	345	doramectina 1%	6	227	chuva
+658	325.2	ivermectina 1%	10	0	chuva
+659	268	ivermectina 1%	10	0	chuva
+670	250.8	ivermectina 1%	10	0	chuva
+673	222.6	ivermectina 1%	10	0	chuva
+679	240.4	ivermectina 1%	10	0	chuva
+690	241	ivermectina 1%	10	0	chuva
+693	222.6	ivermectina 1%	10	0	chuva
+658	324	ivermectina 1%	11	26	chuva
+659	272.2	ivermectina 1%	11	26	chuva
+670	276	ivermectina 1%	11	26	chuva
+673	220.8	ivermectina 1%	11	26	chuva
+679	242.6	ivermectina 1%	11	26	chuva
+690	234.6	ivermectina 1%	11	26	chuva
+693	228.2	ivermectina 1%	11	26	chuva
+658	333.4	ivermectina 1%	12	53	chuva
+659	282.6	ivermectina 1%	12	53	chuva
+670	264.1	ivermectina 1%	12	53	chuva
+673	229	ivermectina 1%	12	53	chuva
+679	249.6	ivermectina 1%	12	53	chuva
+690	245.1	ivermectina 1%	12	53	chuva
+693	235	ivermectina 1%	12	53	chuva
+658	336.2	ivermectina 1%	1	92	chuva
+659	283	ivermectina 1%	1	92	chuva
+670	276	ivermectina 1%	1	92	chuva
+673	243	ivermectina 1%	1	92	chuva
+679	277	ivermectina 1%	1	92	chuva
+690	261.4	ivermectina 1%	1	92	chuva
+693	250	ivermectina 1%	1	92	chuva
+658	338	ivermectina 1%	2	126	chuva
+659	302	ivermectina 1%	2	126	chuva
+670	268	ivermectina 1%	2	126	chuva
+673	229	ivermectina 1%	2	126	chuva
+679	304.2	ivermectina 1%	2	126	chuva
+690	276	ivermectina 1%	2	126	chuva
+693	263	ivermectina 1%	2	126	chuva
+658	361	ivermectina 1%	3	145	chuva
+659	330.2	ivermectina 1%	3	145	chuva
+670	277.6	ivermectina 1%	3	145	chuva
+673	240	ivermectina 1%	3	145	chuva
+679	318.8	ivermectina 1%	3	145	chuva
+690	308.6	ivermectina 1%	3	145	chuva
+693	283	ivermectina 1%	3	145	chuva
+658	413.2	ivermectina 1%	5	198	chuva
+659	359.6	ivermectina 1%	5	198	chuva
+670	316	ivermectina 1%	5	198	chuva
+673	242	ivermectina 1%	5	198	chuva
+679	348.4	ivermectina 1%	5	198	chuva
+690	319.2	ivermectina 1%	5	198	chuva
+693	305.2	ivermectina 1%	5	198	chuva
+658	429	ivermectina 1%	6	227	chuva
+659	377	ivermectina 1%	6	227	chuva
+670	320	ivermectina 1%	6	227	chuva
+673	255.4	ivermectina 1%	6	227	chuva
+679	330.2	ivermectina 1%	6	227	chuva
+690	329	ivermectina 1%	6	227	chuva
+693	330	ivermectina 1%	6	227	chuva
+744	241.6	ivermectina genérico 1%	4	0	seca2
+752	225.8	ivermectina genérico 1%	4	0	seca2
+754	253.6	ivermectina genérico 1%	4	0	seca2
+755	227	ivermectina genérico 1%	4	0	seca2
+757	226.4	ivermectina genérico 1%	4	0	seca2
+760	188.4	ivermectina genérico 1%	4	0	seca2
+767	185.6	ivermectina genérico 1%	4	0	seca2
+772	214.2	ivermectina genérico 1%	4	0	seca2
+778	181.2	ivermectina genérico 1%	4	0	seca2
+744	245	ivermectina genérico 1%	5	39	seca2
+752	246.6	ivermectina genérico 1%	5	39	seca2
+754	267	ivermectina genérico 1%	5	39	seca2
+755	250.8	ivermectina genérico 1%	5	39	seca2
+760	222.6	ivermectina genérico 1%	5	39	seca2
+767	209.4	ivermectina genérico 1%	5	39	seca2
+772	222.2	ivermectina genérico 1%	5	39	seca2
+778	220.2	ivermectina genérico 1%	5	39	seca2
+744	262	ivermectina genérico 1%	6	68	seca2
+752	261	ivermectina genérico 1%	6	68	seca2
+754	277	ivermectina genérico 1%	6	68	seca2
+755	253	ivermectina genérico 1%	6	68	seca2
+767	224.6	ivermectina genérico 1%	6	68	seca2
+772	237	ivermectina genérico 1%	6	68	seca2
+778	241.2	ivermectina genérico 1%	6	68	seca2
+744	265.2	ivermectina genérico 1%	7	96	seca2
+752	260.2	ivermectina genérico 1%	7	96	seca2
+754	287	ivermectina genérico 1%	7	96	seca2
+755	267.8	ivermectina genérico 1%	7	96	seca2
+760	259.4	ivermectina genérico 1%	7	96	seca2
+767	231	ivermectina genérico 1%	7	96	seca2
+772	258	ivermectina genérico 1%	7	96	seca2
+778	250	ivermectina genérico 1%	7	96	seca2
+744	317	ivermectina genérico 1%	9	172	seca2
+752	317	ivermectina genérico 1%	9	172	seca2
+754	347	ivermectina genérico 1%	9	172	seca2
+755	354	ivermectina genérico 1%	9	172	seca2
+760	318	ivermectina genérico 1%	9	172	seca2
+767	288	ivermectina genérico 1%	9	172	seca2
+772	314	ivermectina genérico 1%	9	172	seca2
+778	312	ivermectina genérico 1%	9	172	seca2
+733	267	sulfóxido de albendazol 10%	4	0	seca2
+743	228.2	sulfóxido de albendazol 10%	4	0	seca2
+753	229.4	sulfóxido de albendazol 10%	4	0	seca2
+771	140	sulfóxido de albendazol 10%	4	0	seca2
+775	228.2	sulfóxido de albendazol 10%	4	0	seca2
+780	220	sulfóxido de albendazol 10%	4	0	seca2
+782	210	sulfóxido de albendazol 10%	4	0	seca2
+785	216	sulfóxido de albendazol 10%	4	0	seca2
+794	204.4	sulfóxido de albendazol 10%	4	0	seca2
+733	300	sulfóxido de albendazol 10%	5	39	seca2
+743	263	sulfóxido de albendazol 10%	5	39	seca2
+753	259.6	sulfóxido de albendazol 10%	5	39	seca2
+771	211	sulfóxido de albendazol 10%	5	39	seca2
+775	252.2	sulfóxido de albendazol 10%	5	39	seca2
+780	220	sulfóxido de albendazol 10%	5	39	seca2
+782	212	sulfóxido de albendazol 10%	5	39	seca2
+785	234.2	sulfóxido de albendazol 10%	5	39	seca2
+794	231.6	sulfóxido de albendazol 10%	5	39	seca2
+733	312.2	sulfóxido de albendazol 10%	6	68	seca2
+743	272	sulfóxido de albendazol 10%	6	68	seca2
+753	271.6	sulfóxido de albendazol 10%	6	68	seca2
+771	230.2	sulfóxido de albendazol 10%	6	68	seca2
+775	252	sulfóxido de albendazol 10%	6	68	seca2
+780	225	sulfóxido de albendazol 10%	6	68	seca2
+782	227	sulfóxido de albendazol 10%	6	68	seca2
+785	240.2	sulfóxido de albendazol 10%	6	68	seca2
+794	244.8	sulfóxido de albendazol 10%	6	68	seca2
+733	316	sulfóxido de albendazol 10%	7	96	seca2
+743	276	sulfóxido de albendazol 10%	7	96	seca2
+753	284	sulfóxido de albendazol 10%	7	96	seca2
+771	225	sulfóxido de albendazol 10%	7	96	seca2
+775	280	sulfóxido de albendazol 10%	7	96	seca2
+780	228	sulfóxido de albendazol 10%	7	96	seca2
+782	256	sulfóxido de albendazol 10%	7	96	seca2
+785	261	sulfóxido de albendazol 10%	7	96	seca2
+794	244	sulfóxido de albendazol 10%	7	96	seca2
+733	398	sulfóxido de albendazol 10%	9	172	seca2
+743	326	sulfóxido de albendazol 10%	9	172	seca2
+753	369	sulfóxido de albendazol 10%	9	172	seca2
+771	287	sulfóxido de albendazol 10%	9	172	seca2
+775	329	sulfóxido de albendazol 10%	9	172	seca2
+780	304	sulfóxido de albendazol 10%	9	172	seca2
+782	264	sulfóxido de albendazol 10%	9	172	seca2
+785	324	sulfóxido de albendazol 10%	9	172	seca2
+794	313	sulfóxido de albendazol 10%	9	172	seca2
+702	266	abamectina 1%	4	0	seca2
+705	264.4	abamectina 1%	4	0	seca2
+710	230.4	abamectina 1%	4	0	seca2
+716	247	abamectina 1%	4	0	seca2
+745	212.8	abamectina 1%	4	0	seca2
+756	162	abamectina 1%	4	0	seca2
+761	231.4	abamectina 1%	4	0	seca2
+769	202	abamectina 1%	4	0	seca2
+776	194	abamectina 1%	4	0	seca2
+702	301.2	abamectina 1%	5	39	seca2
+705	289.4	abamectina 1%	5	39	seca2
+710	249	abamectina 1%	5	39	seca2
+716	288.2	abamectina 1%	5	39	seca2
+745	240	abamectina 1%	5	39	seca2
+756	194	abamectina 1%	5	39	seca2
+761	254.6	abamectina 1%	5	39	seca2
+769	232	abamectina 1%	5	39	seca2
+776	237.2	abamectina 1%	5	39	seca2
+702	317	abamectina 1%	6	68	seca2
+705	302	abamectina 1%	6	68	seca2
+710	263	abamectina 1%	6	68	seca2
+716	285.6	abamectina 1%	6	68	seca2
+745	254.4	abamectina 1%	6	68	seca2
+756	205.4	abamectina 1%	6	68	seca2
+769	240.4	abamectina 1%	6	68	seca2
+776	235.2	abamectina 1%	6	68	seca2
+702	326.2	abamectina 1%	7	96	seca2
+705	317	abamectina 1%	7	96	seca2
+710	264	abamectina 1%	7	96	seca2
+716	297	abamectina 1%	7	96	seca2
+745	285	abamectina 1%	7	96	seca2
+756	239	abamectina 1%	7	96	seca2
+761	262	abamectina 1%	7	96	seca2
+776	254.4	abamectina 1%	7	96	seca2
+702	379	abamectina 1%	9	172	seca2
+705	348	abamectina 1%	9	172	seca2
+710	354	abamectina 1%	9	172	seca2
+716	380	abamectina 1%	9	172	seca2
+745	343	abamectina 1%	9	172	seca2
+756	320	abamectina 1%	9	172	seca2
+761	337	abamectina 1%	9	172	seca2
+769	291	abamectina 1%	9	172	seca2
+776	324	abamectina 1%	9	172	seca2
+708	259.6	doramectina 1%	4	0	seca2
+724	241.6	doramectina 1%	4	0	seca2
+739	221	doramectina 1%	4	0	seca2
+741	215.2	doramectina 1%	4	0	seca2
+747	231.2	doramectina 1%	4	0	seca2
+762	204.4	doramectina 1%	4	0	seca2
+768	186.6	doramectina 1%	4	0	seca2
+777	180.6	doramectina 1%	4	0	seca2
+786	186.8	doramectina 1%	4	0	seca2
+708	303.4	doramectina 1%	5	39	seca2
+724	259	doramectina 1%	5	39	seca2
+739	264.6	doramectina 1%	5	39	seca2
+741	251.2	doramectina 1%	5	39	seca2
+747	266	doramectina 1%	5	39	seca2
+777	204	doramectina 1%	5	39	seca2
+786	208.4	doramectina 1%	5	39	seca2
+708	320.2	doramectina 1%	6	68	seca2
+724	263.4	doramectina 1%	6	68	seca2
+739	261	doramectina 1%	6	68	seca2
+741	261	doramectina 1%	6	68	seca2
+747	268	doramectina 1%	6	68	seca2
+768	227	doramectina 1%	6	68	seca2
+777	223	doramectina 1%	6	68	seca2
+786	211.4	doramectina 1%	6	68	seca2
+708	324	doramectina 1%	7	96	seca2
+724	281.4	doramectina 1%	7	96	seca2
+739	264	doramectina 1%	7	96	seca2
+741	264	doramectina 1%	7	96	seca2
+747	267	doramectina 1%	7	96	seca2
+768	238	doramectina 1%	7	96	seca2
+777	258	doramectina 1%	7	96	seca2
+786	235	doramectina 1%	7	96	seca2
+708	389	doramectina 1%	9	172	seca2
+724	347	doramectina 1%	9	172	seca2
+739	326	doramectina 1%	9	172	seca2
+741	321	doramectina 1%	9	172	seca2
+747	344	doramectina 1%	9	172	seca2
+768	319	doramectina 1%	9	172	seca2
+777	299	doramectina 1%	9	172	seca2
+786	306	doramectina 1%	9	172	seca2
+715	234.6	ivermectina 1%	4	0	seca2
+740	240.2	ivermectina 1%	4	0	seca2
+742	217.8	ivermectina 1%	4	0	seca2
+750	225	ivermectina 1%	4	0	seca2
+757	230.4	ivermectina 1%	4	0	seca2
+763	222	ivermectina 1%	4	0	seca2
+774	207.4	ivermectina 1%	4	0	seca2
+779	159.2	ivermectina 1%	4	0	seca2
+792	209	ivermectina 1%	4	0	seca2
+715	263	ivermectina 1%	5	39	seca2
+740	275.6	ivermectina 1%	5	39	seca2
+750	244	ivermectina 1%	5	39	seca2
+757	255.4	ivermectina 1%	5	39	seca2
+763	242	ivermectina 1%	5	39	seca2
+774	222.6	ivermectina 1%	5	39	seca2
+779	184	ivermectina 1%	5	39	seca2
+792	223.4	ivermectina 1%	5	39	seca2
+715	279.2	ivermectina 1%	6	68	seca2
+740	275	ivermectina 1%	6	68	seca2
+742	257.6	ivermectina 1%	6	68	seca2
+750	268.2	ivermectina 1%	6	68	seca2
+757	265.4	ivermectina 1%	6	68	seca2
+763	243.2	ivermectina 1%	6	68	seca2
+774	232.8	ivermectina 1%	6	68	seca2
+779	198	ivermectina 1%	6	68	seca2
+792	233.6	ivermectina 1%	6	68	seca2
+715	298	ivermectina 1%	7	96	seca2
+740	291	ivermectina 1%	7	96	seca2
+742	283	ivermectina 1%	7	96	seca2
+750	278.4	ivermectina 1%	7	96	seca2
+757	266	ivermectina 1%	7	96	seca2
+763	257	ivermectina 1%	7	96	seca2
+774	259	ivermectina 1%	7	96	seca2
+779	232.8	ivermectina 1%	7	96	seca2
+792	243	ivermectina 1%	7	96	seca2
+715	365	ivermectina 1%	9	172	seca2
+740	339	ivermectina 1%	9	172	seca2
+742	344	ivermectina 1%	9	172	seca2
+750	332	ivermectina 1%	9	172	seca2
+757	347	ivermectina 1%	9	172	seca2
+763	324	ivermectina 1%	9	172	seca2
+774	318	ivermectina 1%	9	172	seca2
+779	291	ivermectina 1%	9	172	seca2
+792	305	ivermectina 1%	9	172	seca2

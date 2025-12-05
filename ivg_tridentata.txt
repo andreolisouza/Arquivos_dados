@@ -1,0 +1,73 @@
+## Dados de responsabilidade de Grasiela Bruzamarello Tognon
+## (http://lattes.cnpq.br/2911532137112895), acadêmica de pós graduação
+## em produção vegetal, UFPR.
+## O experimento avaliou o efeito dos fatores
+##   * período de armazenamento (meses) = {0,2,4,6};
+##   * teperatura de armazenamento (°C) = {5,18};
+##   * embalagem de armazenamento = {Papel Kraft, Polietileno};
+## A resposta avaliada foi a germinação das sementes ao final do
+## experimento e o índice de velocidade de germinação. Foram consideradas 4
+## unidades experimentais (UE) contendo 50 sementes em cada para cada cela
+## experimental. A UE foi observada periodicamente a partir do dia 0 que
+## foi o dia em que as sementes foram colocadas para germinar.
+## Detalhe: o arranjo experimental é um fatorial 3x2x2+1 pois no
+## armazenamento zero não se tem o efeito de temperatura e embalagem pois
+## não houve período de armazenamento, portanto, essa cela experimental
+## representa uma testemunha que descreve a condição inicial das sementes
+## antes dos efeitos de período, temperatura e embalagem. Sendo assim,
+## registros no período de armazenamento 0 meses tem o valor `NULA` para as
+## colunas de temperatura e embalagem.
+##
+armaz	temper	embal	rept	ngerm50	ivg
+0	NULA	NULA	1	31	2.8630
+0	NULA	NULA	2	30	2.5180
+0	NULA	NULA	3	29	2.6683
+0	NULA	NULA	4	32	2.8479
+2	5	Papel Kraft	1	31	2.2694
+2	5	Papel Kraft	2	28	1.9355
+2	5	Papel Kraft	3	31	2.3362
+2	5	Papel Kraft	4	24	1.4976
+2	5	Polietileno	1	21	1.2276
+2	5	Polietileno	2	28	1.5826
+2	5	Polietileno	3	31	2.0961
+2	5	Polietileno	4	30	1.8040
+2	18	Papel Kraft	1	35	2.2082
+2	18	Papel Kraft	2	37	2.5245
+2	18	Papel Kraft	3	42	2.7283
+2	18	Papel Kraft	4	25	1.3577
+2	18	Polietileno	1	26	1.5633
+2	18	Polietileno	2	24	1.3670
+2	18	Polietileno	3	27	1.7434
+2	18	Polietileno	4	33	1.9939
+4	5	Papel Kraft	1	29	3.0199
+4	5	Papel Kraft	2	29	2.5879
+4	5	Papel Kraft	3	32	2.7528
+4	5	Papel Kraft	4	31	2.3573
+4	5	Polietileno	1	27	2.8136
+4	5	Polietileno	2	32	3.2253
+4	5	Polietileno	3	20	1.9750
+4	5	Polietileno	4	26	2.0735
+4	18	Papel Kraft	1	34	3.1913
+4	18	Papel Kraft	2	32	2.6437
+4	18	Papel Kraft	3	37	3.1432
+4	18	Papel Kraft	4	37	3.5338
+4	18	Polietileno	1	25	1.9865
+4	18	Polietileno	2	28	2.3171
+4	18	Polietileno	3	32	2.5120
+4	18	Polietileno	4	33	2.4605
+6	5	Papel Kraft	1	31	3.4045
+6	5	Papel Kraft	2	25	2.5734
+6	5	Papel Kraft	3	40	4.2165
+6	5	Papel Kraft	4	31	3.1925
+6	5	Polietileno	1	27	2.6628
+6	5	Polietileno	2	32	3.6329
+6	5	Polietileno	3	32	3.6667
+6	5	Polietileno	4	35	3.6781
+6	18	Papel Kraft	1	23	2.3720
+6	18	Papel Kraft	2	23	2.4087
+6	18	Papel Kraft	3	25	2.1587
+6	18	Papel Kraft	4	33	2.8448
+6	18	Polietileno	1	21	1.8599
+6	18	Polietileno	2	27	2.5186
+6	18	Polietileno	3	32	3.1285
+6	18	Polietileno	4	30	2.6084
